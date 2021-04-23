@@ -24,3 +24,17 @@ Através dos detalhes do cliente é possível determinar o vendedor responsável
 
 
 ![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/8-cliente-parceiro.png)
+
+## Histórico de Movimentações/vendas
+
+Nessa aba são listadas todas as vendas realizadas ao cliente em análise. 
+
+Essa aba facilita a navegação e análise de um cliente em específico, ao invés de filtrar pelo cliente na tela de Vendas você pode consultar esse histórico e buscar pelas suas vendas.
+
+![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/12-cliente-parceiro.png)
+
+## Unidades de atendimento
+
+Aqui é possível analisar as unidades em que o cliente já foi atendido.
+
+![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/13-cliente-parceiro.png)
