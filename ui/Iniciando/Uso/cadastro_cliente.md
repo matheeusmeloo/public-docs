@@ -14,7 +14,7 @@ Um formulário será aberto, basta preencher as informações referentes ao clie
 
 Se o cliente a ser cadastrado for indicado por algum parceiro adicione-o ao campo `Parceiro Indicador`
 
-![Parceiro indicador](/ui/assets/manuais-de-uso/cliente-parceiro/4-cliente-parceiro.png)
+![Indicação](/ui/assets/manuais-de-uso/cliente-parceiro/4-cliente-parceiro.png)
 
 Caso o cliente seja um parceiro verifique nosso <a href="/ui/Iniciando/Uso/cadastro_parceiro.md">manual</a> para cadastro de parceiros indicadores
 
@@ -31,10 +31,10 @@ Nessa aba são listadas todas as vendas realizadas ao cliente em análise.
 
 Essa aba facilita a navegação e análise de um cliente em específico, ao invés de filtrar pelo cliente na tela de Vendas você pode consultar esse histórico e buscar pelas suas vendas.
 
-![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/12-cliente-parceiro.png)
+![Histórico de vendas](/ui/assets/manuais-de-uso/cliente-parceiro/12-cliente-parceiro.png)
 
 ## Unidades de atendimento
 
 Aqui é possível analisar as unidades em que o cliente já foi atendido.
 
-![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/13-cliente-parceiro.png)
+![Unidades de Atendimento](/ui/assets/manuais-de-uso/cliente-parceiro/13-cliente-parceiro.png)
