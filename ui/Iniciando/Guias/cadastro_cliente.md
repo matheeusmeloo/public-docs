@@ -38,3 +38,9 @@ Essa aba facilita a navegação e análise de um cliente em específico, ao inv�
 Aqui é possível analisar as unidades em que o cliente já foi atendido.
 
 ![Unidades de Atendimento](/ui/assets/manuais-de-uso/cliente-parceiro/13-cliente-parceiro.png)
+
+## Dados fiscais
+
+Caso o cliente seja pessoa júridica, novos campos serão habilitados na seção `Dados fiscais`, dessa forma se o cliente for substituto tributário marque a opção **`Retem ISS?`** e o responsável pela retenção.
+
+![Unidades de Atendimento](/ui/assets/manuais-de-uso/cliente-parceiro/14-cliente-parceiro.png)
