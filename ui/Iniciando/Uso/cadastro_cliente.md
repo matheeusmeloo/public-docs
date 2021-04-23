@@ -20,4 +20,7 @@ Caso o cliente seja um parceiro verifique nosso <a href="/ui/Iniciando/Uso/cadas
 
 ## Detalhes do Cliente
 
+Através dos detalhes do cliente é possível determinar o vendedor responsável pelo atendimento e uma unidade para o cliente, informações como `Data de Cadastro` e `Data de Alteração` são preenchidas pelo sistema.
 
+
+![Detalhes do Cliente](/ui/assets/manuais-de-uso/cliente-parceiro/8-cliente-parceiro.png)
