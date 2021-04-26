@@ -1,4 +1,4 @@
-## Vendas
+# Vendas
 
 Cadastrar uma nova venda pelo Gestão Online é fácil, através dela é possível gerar boletos e emitir notas fiscais. Assim que uma venda é confirmada o estoque e financeiro são atualizados automaticamente.
 

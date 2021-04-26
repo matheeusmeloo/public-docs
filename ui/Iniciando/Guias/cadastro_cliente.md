@@ -16,7 +16,7 @@ Se o cliente a ser cadastrado for indicado por algum parceiro adicione-o ao camp
 
 ![Indicação](/ui/assets/manuais-de-uso/cliente-parceiro/4-cliente-parceiro.png)
 
-Caso o cliente seja um parceiro verifique nosso <a href="/ui/Iniciando/Uso/cadastro_parceiro.md">manual</a> para cadastro de parceiros indicadores
+Caso o cliente seja um parceiro verifique nosso <a href="/ui/Iniciando//Guias/cadastro_parceiro.md">manual</a> para cadastro de parceiros indicadores
 
 ## Detalhes do Cliente
 
