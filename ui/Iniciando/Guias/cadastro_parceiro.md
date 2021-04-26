@@ -23,7 +23,7 @@ Aqui são definidas as informações relacionadas ao parceiro, sua comissão, de
 
 Para cadastrar uma tabela de preço responsável pela comissão do parceiro verifique nosso <a href="/ui/Iniciando/Guias/tabelas_de_preco.md">manual</a> de cadastro de tabelas de preços para comissões
 
-Commit test
+Commit test...
 
 ## Contatos
 
