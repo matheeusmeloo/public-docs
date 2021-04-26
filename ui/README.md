@@ -1,11 +1,12 @@
-## Interface de Usuário
+# Interface de Usuário
 
 Esta seção tem como objetivo esclarecer as dúvidas dos usuários e os recursos oferecidos pela plataforma.
 
-### Dicas de uso
+## Dicas de uso
 
 A maioria das páginas possuem um menu principal no canto superior direito.
 
-![Imagem Menu Geral de Páginas](/ui/assets/capturas-de-tela/menu-principal-paginas.png)
+![Imagem Menu Geral de P&#xE1;ginas](../.gitbook/assets/menu-principal-paginas.png)
 
 Este menu pode variar em cada página e possui opções como salvar item, adicionar item, atualizar página, voltar, duplicar item e gerar relatórios.
+
