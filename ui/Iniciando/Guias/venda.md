@@ -2,61 +2,49 @@
 
 Cadastrar uma nova venda pelo Gestão Online é fácil, através dela é possível gerar boletos e emitir notas fiscais. Assim que uma venda é confirmada o estoque e financeiro são atualizados automaticamente.
 
-Antes de cadastrar uma venda, a <a>empresa</a>, <a>cliente</a>, <a>produtos</a> e <a>tabela de preço</a> devem estar previamente cadastrados.
+Antes de cadastrar uma venda, a <a>empresa</a>, <a>cliente</a>, <a>produtos</a> e <a>tabela de preço</a> correspondente devem estar previamente cadastrados.
 
 Pesquise pela página **`Vendas`**, após abrir, clique em "adicionar item" para realizar uma nova venda.
 
-<p align='center'>
-  <img src='/ui/assets/manuais-de-uso/cliente-parceiro/2-cliente-parceiro.png'/>
-</p>
-
-Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para controle das vendas e podendo criar relatórios.
+![Tela de vendas](/ui/assets/manuais-de-uso/vendas/1-venda.png)
 
 ### Realizando Venda
 
  Para que a venda seja realizada, primeiramente deve-se preencher somente os seguintes campos:
 
-  - Tipo de Negociação (boleto, cartão, dinheiro). *
-  - Cliente cadastrado *
-  - Tipo de Movimentação *
+  - * Tipo de Negociação:
+    Aqui escolhemos a forma de pagamento (boleto, cartão, dinheiro).
+  - * Cliente cadastrado
+  - * Tipo de Movimentação: Determina o comportamento da venda, se atualiza estoque, altera financeiro, faz parte do pré pago.
+
  
 Após completar os campos, no menu principal da página clique em *`Salvar Rascunho`*
 
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
-</p>
+![Botão Salvar Rascunho](/ui/assets/manuais-de-uso/vendas/2-venda.png)
 
-Os outros campos seram preenchidos automaticamente após salvar rascunho.
+**Os outros campos serão preenchidos automaticamente após salvar rascunho.**
 
-#### Adicionando itens à venda
+### Adicionando itens à venda
 
 Após salvar o rascunho de sua venda, clique em *`adicionar item`* no menu de opções secundário dentro da aba itens.
 
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-venda.png'/>
-<p>
+![Adicionar item a venda](/ui/assets/manuais-de-uso/vendas/3-vendas.png)
 
 Complete os campos relacionados ao item:
 
-- Produto/serviço: Digite qual certificado deseja, selecione, o sistema puxa automaticamente o valor de acordo com a 'tabela de preço' cadastrada no vendedor que esta realizando a venda,
-- Quantidade: Escolha a quantidade de certificado, mesmo sendo mais de '1' certificado o valor mostra o 'unitário'.
+- Produto/serviço: Digite qual certificado deseja vender, ao selecioná-lo o sistema puxa automaticamente o valor de acordo com a 'tabela de preço' cadastrada no vendedor que esta realizando a venda,
+- Quantidade: Escolha a quantidade de certificados, mesmo sendo mais de '1' certificado o valor exibido será referente a '1' unidade.
 - Caso o 'Produto/serviço' seja um *KIT: Ao selecionar o KIT, será puxado pelo sistema o '*local de estoque' que está cadastrado no vendedor, onde então, de forma automática, vai ser descontado a quantidade de 'Token, SmartCard ou Leitora'  de acordo com a quantidade selecionada.
-- Se quer adicionar um desconto no 'produto/serviço' do seu cliente, selecione o desconto em percentual ou em valor.  O valor ou percentual selecionado será descontado de cima de cada certificado.
+- Se deseja adicionar um desconto ao 'produto/serviço' do seu cliente, selecione o desconto em percentual ou em valor.  O valor ou percentual selecionado será descontado de cima de cada certificado.
 - Em seguida clique em ''salvar'' para gravar a venda.
 
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-salvar-venda.png'/>
-</p>
+![Adicionar item a venda](/ui/assets/manuais-de-uso/vendas/4-vendas.png)
 
 - logo depois clique em ''confirmar'' logo acima na cor  'verde'.
 
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-confirma-venda.png'/>
-</p>
-
-### Atenção
-
-- Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+{% warning style='warning' %}
+Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+{% endhint %} 
 
 ### Gerar boleto
 
