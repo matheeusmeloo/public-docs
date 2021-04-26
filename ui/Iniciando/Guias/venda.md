@@ -67,7 +67,7 @@ O financeiro será baixado automaticamente caso a venda tenha sido realizada uti
 Caso não possua o Go-pag, o seu Banco devera ter integração com o Gestão.Online para que essa baixa seja automática.
 Sem a integração do banco no Gestão Online, pagamentos em dinheiro, maquininha física, PIX ou outra forma de pagamento sem vínculo com o sistema, devem ter a baixa feita manualmente.
 
-Para realizar uma baixa ou estorno de algum pagamento confira nosso <a href="/ui/Iniciando/Guias/venda.md">guia</a> sobre o financeiro.
+Para realizar uma baixa ou estorno de algum pagamento confira nosso <a href="/ui/Iniciando/Guias/financeiro.md">guia</a> sobre o financeiro.
 
 ### Cancelar uma venda
 
