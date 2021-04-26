@@ -42,8 +42,8 @@ Complete os campos relacionados ao item:
 
 - logo depois clique em ''confirmar'' logo acima na cor  'verde'.
 
-{% warning style='warning' %}
-Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+{% hint style='warning' %}
+**Cuidado**: Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 {% endhint %} 
 
 ### Gerar boleto
