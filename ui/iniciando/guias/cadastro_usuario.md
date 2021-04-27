@@ -27,3 +27,5 @@ Cada usuário terá um certo nível de acesso a certas funcionalidades do sistem
 * Admin - Possui acesso á maioria das funcionalidades, pode cadastrar novos usuários como Admin ou User, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
 
 * Superadmin - Este perfil tem acesso **total** ao sistema e também pode realizar alterações em eventos e geração de relatórios em páginas como **`Notification Template`** e **`Reports and Widgets`**.
+
+![Página de usuários](/ui/assets/manuais-de-uso/usuarios/2-usuarios.png)
