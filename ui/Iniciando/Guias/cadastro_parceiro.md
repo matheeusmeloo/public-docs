@@ -21,9 +21,7 @@ Aqui são definidas as informações relacionadas ao parceiro, sua comissão, de
 
 ![Detalhes do parceiro indicador](/ui/assets/manuais-de-uso/cliente-parceiro/6-cliente-parceiro.png)
 
-Para cadastrar uma tabela de preço responsável pela comissão do parceiro verifique nosso <a href="/ui/Iniciando/Guias/tabelas_de_preco.md">manual</a> de cadastro de tabelas de preços para comissões
-
-Commit test...
+Para cadastrar uma tabela de preço responsável pela comissão do parceiro verifique nosso <a href="/ui/Iniciando/Guias/tabelas_de_preco.md">manual</a> de cadastro de tabelas de preços para comissões.
 
 ## Contatos
 

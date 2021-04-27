@@ -8,7 +8,7 @@ Pesquise pela página **`Vendas`**, após abrir, clique em "adicionar item" para
 
 ![Tela de vendas](/ui/assets/manuais-de-uso/vendas/1-venda.png)
 
-### Realizando Venda
+### Como fazer uma venda?
 
  Para que a venda seja realizada, primeiramente deve-se preencher somente os seguintes campos:
 
@@ -76,3 +76,15 @@ Com alguns cliques você será capaz de cancelar sua venda, para isso certifique
 - Clique em 'cancelar' em seguida escreva o motivo do cancelamento.
 
 ![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/7-vendas.png)
+
+## O boleto venceu e o cliente não pagou e agora?
+
+Para gerar novos boletos é fácil seleciona a aba `Financeiro` na página da venda aberta.
+
+![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/8-vendas.png)
+
+Clique em editar na conta, caso ela ainda não tenha baixa financeira e altere a data de vencimento para outra qualquer, após isso basta clicar em `Salvar` e depois gerar o boleto novamente.
+
+![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/9-vendas.png)
+
+

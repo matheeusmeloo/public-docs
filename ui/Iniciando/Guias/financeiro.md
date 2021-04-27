@@ -33,7 +33,7 @@ Os demais campos são opcionais:
 
 - A natureza da conta, categorizando o tipo da receita ou despesa, por exemplo (despesas com viagem, serviços, receitas administrativas).
 - Centro de resultado, este é responsável pela divisão dos setores da empresa (ADMINISTRATIVO, MARKETING, SÓCIOS, PARCEIROS, COMERCIAL...).
-- Valores de juro e multa
+- Valores de juro e multa.
 - Histórico (observações para conta)
 
 ## Como realizar a baixa de alguma conta?

@@ -4,7 +4,7 @@ Com este modulo é possível ter um maior controle financeiro sobre as suas unid
 
 ### Como funciona?
 
-Para começar a usar o pré/pós pago é preciso cadastrar um contrato de controle sobre a mesma, assim será possível definir um valor limite a ela. Após o contrato ser concluido a unidade começara com o seu saldo vazio e cada movimentação feita pelos vendedores sobre ela aumentará ou decrementará seu valor baseado no tipo de movimentação em questão ex:(Aquisição de crédito ou Venda em pré pago). Para que as vendas nesse modelo funcionem as unidades devem possuir uma tabela específica para o pré-pago, caso o item a ser adicionado na venda não esteja presente nessa tabela o sistema levantará um erro.
+Para começar a usar o pré/pós pago é preciso cadastrar um contrato para . Após o contrato ser concluido a unidade começara com o seu saldo vazio e cada movimentação feita pelos vendedores sobre ela aumentará ou decrementará seu valor baseado no tipo de movimentação em questão ex:(Aquisição de crédito ou Venda em pré pago). Para que as vendas nesse modelo funcionem as unidades devem possuir uma tabela específica para o pré-pago, caso o item a ser adicionado na venda não esteja presente nessa tabela o sistema levantará um erro.
 
 ### Cadastrando uma unidade ao pré pago
 
