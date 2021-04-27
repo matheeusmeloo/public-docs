@@ -1,2 +1,0 @@
-# Centro De Resultado
-
