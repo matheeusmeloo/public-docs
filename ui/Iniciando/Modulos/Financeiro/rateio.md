@@ -1,3 +1,0 @@
-# Rateio
-
-Em desenvolvimento...

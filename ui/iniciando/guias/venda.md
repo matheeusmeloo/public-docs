@@ -74,3 +74,12 @@ Com alguns cliques você será capaz de cancelar sua venda, para isso certifique
 
 ![Gerar Boleto](../../../.gitbook/assets/7-vendas.png)
 
+## O boleto venceu e o cliente não pagou e agora?
+
+Para gerar novos boletos é fácil seleciona a aba `Financeiro` na página da venda aberta.
+
+![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/8-vendas.png)
+
+Clique em editar na conta, caso ela ainda não tenha baixa financeira e altere a data de vencimento para outra qualquer, após isso basta clicar em `Salvar` e depois gerar o boleto novamente.
+
+![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/9-vendas.png)
