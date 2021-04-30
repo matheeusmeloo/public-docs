@@ -10,5 +10,5 @@ Ao clicar para gerar um relatório os seguintes campos podem ser preenchidos:
 * Busca por unidade
 * Busca por parceiro
 
-Geralmente, quando um relatório for ser gerado serão necessárias duas data, uma de início e outra de fim para determinar um período de consulta.
+Geralmente, quando um relatório for ser gerado serão necessárias duas datas, uma de início e outra de fim para determinar um período de consulta.
 
