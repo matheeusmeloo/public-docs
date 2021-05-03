@@ -4,11 +4,11 @@ Com este modulo é possível ter um maior controle financeiro sobre as suas unid
 
 ## Como funciona?
 
-Para começar a usar o pré/pós pago é preciso cadastrar um contrato de controle sobre a mesma, assim será possível definir um valor limite a ela. Após o contrato ser concluido a unidade começara com o seu saldo vazio e cada movimentação feita pelos vendedores sobre ela aumentará ou decrementará seu valor baseado no tipo de movimentação em questão ex:\(Aquisição de crédito ou Venda em pré pago\). Para que as vendas nesse modelo funcionem as unidades devem possuir uma tabela específica para o pré-pago, caso o item a ser adicionado na venda não esteja presente nessa tabela o sistema levantará um erro.
+Para começar a usar o pré/pós pago é preciso cadastrar um contrato de controle sobre a unidade, assim será possível definir um valor limite a ela. Após o contrato ser concluido a unidade começa com o seu saldo vazio e cada movimentação feita pelos vendedores altera o seu saldo baseado no **`tipo de movimentação`** em questão ex:\(**Aquisição de crédito** ou **Venda Pré-Pago**\). Para que as vendas nesse modelo funcionem as unidades devem possuir uma tabela específica para o pré-pago, caso o item a ser adicionado na venda não esteja presente nessa tabela o sistema acusa um erro.
 
-## Cadastrando uma unidade ao pré pago
+## Como adicionar o modelo pré/pós pago à uma unidade?
 
-Para cadastrar uma unidade ao sistema pré-pago basta acessar a página `Contrato do controle Pré-Pago` e preencher os seguintes dados:
+Para isso basta acessar a página `Contrato do controle Pré-Pago` e preencher os seguintes dados:
 
 * Unidade \*
 * Empresa \*
@@ -27,11 +27,11 @@ Dependendo do tipo de movimentação configurado pelo usuário a venda poderá s
 
 #### Exemplo de venda para aquisição de crédito
 
-![](../../../.gitbook/assets/venda-pre-pago.gif)
+![](/ERP/assets/capturas-de-tela/venda-pre-pago.gif)
 
 ### Resultado da venda no controle do pré pago
 
-![](../../../.gitbook/assets/mudanca-pre-pago.png)
+![](/ERP/assets/capturas-de-tela/mudanca-pre-pago.png)
 
 ## Controle de acessos ao painel controle pré pago
 

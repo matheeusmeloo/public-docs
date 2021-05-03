@@ -4,7 +4,7 @@ Estes serão os responsáveis pelo gerenciamento do seu sistema, podem gerar rel
 
 Para cadastrar um novo usuário pesquise pela página **`Usuário`** no ícone de pesquisa. 
 
-![Página de usuários](/ui/assets/manuais-de-uso/usuarios/1-usuarios.png)
+![Página de usuários](/ERP/assets/manuais-de-uso/usuarios/1-usuarios.png)
 
 Após abrir clique no ícone de `Adicionar Item`, um formulário será aberto solicitando os dados para adicionar o usuário.
 
@@ -28,4 +28,4 @@ Cada usuário terá um certo nível de acesso a certas funcionalidades do sistem
 
 * Superadmin - Este perfil tem acesso **total** ao sistema e também pode realizar alterações em eventos e geração de relatórios em páginas como **`Notification Template`** e **`Reports and Widgets`**.
 
-![Página de usuários](/ui/assets/manuais-de-uso/usuarios/2-usuarios.png)
+![Página de usuários](/ERP/assets/manuais-de-uso/usuarios/2-usuarios.png)

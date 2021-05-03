@@ -6,7 +6,7 @@ Antes de cadastrar uma venda, a [empresa](venda.md), [cliente](venda.md), [produ
 
 Pesquise pela página **`Vendas`**, após abrir, clique em "adicionar item" para realizar uma nova venda.
 
-![Tela de vendas](../../../.gitbook/assets/1-venda.png)
+![Tela de vendas](/ERP/assets/manuais-de-uso/vendas/1-venda.png)
 
 ## Realizando Venda
 
@@ -20,7 +20,7 @@ Para que a venda seja realizada, primeiramente deve-se preencher somente os segu
 
 Após completar os campos, no menu principal da página clique em _`Salvar Rascunho`_
 
-![Bot&#xE3;o Salvar Rascunho](../../../.gitbook/assets/2-venda.png)
+![Bot&#xE3;o Salvar Rascunho](/ERP/assets/manuais-de-uso/vendas/2-venda.png)
 
 **Os outros campos serão preenchidos automaticamente após salvar rascunho.**
 
@@ -28,7 +28,7 @@ Após completar os campos, no menu principal da página clique em _`Salvar Rascu
 
 Após salvar o rascunho de sua venda, clique em _`adicionar item`_ no menu de opções secundário dentro da aba itens.
 
-![Adicionar item a venda](../../../.gitbook/assets/3-vendas.png)
+![Adicionar item a venda](/ERP/assets/manuais-de-uso/vendas/3-vendas.png)
 
 Complete os campos relacionados ao item:
 
@@ -38,7 +38,7 @@ Complete os campos relacionados ao item:
 * Se deseja adicionar um desconto ao 'produto/serviço' do seu cliente, selecione o desconto em percentual ou em valor.  O valor ou percentual selecionado será descontado de cima de cada certificado.
 * Em seguida clique em ''salvar'' para gravar a venda.
 
-![Adicionar item a venda](../../../.gitbook/assets/4-vendas.png)
+![Adicionar item a venda](/ERP/assets/manuais-de-uso/vendas/4-vendas.png)
 
 * logo depois clique em ''confirmar'' logo acima na cor  'verde'.
 
@@ -50,7 +50,7 @@ Complete os campos relacionados ao item:
 
 * Clique em `gerar boleto` em seguida `emitir boletos`, o boleto gerado irá para aba `anexos`.
 
-![Gerar Boleto](../../../.gitbook/assets/5-vendas.png)
+![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/5-vendas.png)
 
 ## Links de Pagamento
 
@@ -58,7 +58,7 @@ Através do Gestão Online também é possível gerar links de pagamento após a
 
 * Caso a movimentação tenha sido realizada por boleto ou cartão o link de pagamento pode ser gerado através deste botão.
 
-![Gerar Boleto](../../../.gitbook/assets/6-vendas.png)
+![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/6-vendas.png)
 
 Após acessar o link, o cliente terá acesso ao resumo da venda e a meio de pagamento escolhido.
 
@@ -72,14 +72,14 @@ Com alguns cliques você será capaz de cancelar sua venda, para isso certifique
 
 * Clique em 'cancelar' em seguida escreva o motivo do cancelamento.
 
-![Gerar Boleto](../../../.gitbook/assets/7-vendas.png)
+![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/7-vendas.png)
 
 ## O boleto venceu e o cliente não pagou e agora?
 
 Para gerar novos boletos é fácil selecione a aba `Financeiro` na página da venda aberta.
 
-![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/8-vendas.png)
+![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/8-vendas.png)
 
 Clique em editar a conta, caso ela ainda não tenha baixa financeira e altere a data de vencimento para outra qualquer, após isso basta clicar em `Salvar` e depois gerar o boleto novamente.
 
-![Gerar Boleto](/ui/assets/manuais-de-uso/vendas/9-vendas.png)
+![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/9-vendas.png)

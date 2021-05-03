@@ -6,15 +6,15 @@ Com o módulo financeiro do Gestão Online você tem controle total das suas con
 
 Para gerenciar suas entradas no financeiro pesquise pela página **`Financeiro`**.
 
-![Tela de vendas](../../../.gitbook/assets/1-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/1-financeiro.png)
 
 Uma lista será carregada descrevendo os detalhes de cada entrada. Para adicionar uma nova conta, clique em adicionar item no menu superior direito.
 
-![Tela de vendas](../../../.gitbook/assets/2-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/2-financeiro.png)
 
 Um formulário será aberto solicitando os detalhes da conta a ser registrada.
 
-![Tela de vendas](../../../.gitbook/assets/3-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/3-financeiro.png)
 
 Os seguintes campos precisam ser preenchidos.
 
@@ -40,21 +40,20 @@ Os demais campos são opcionais:
 
 Para realizar a baixa manual de alguma conta no financeiro, selecione a opção **`Baixar`** no menu superior direito dentro da conta em análise.
 
-![Tela de vendas](../../../.gitbook/assets/4-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/4-financeiro.png)
 
 Informe a data em que houve o recebimento, os valores \(descontos, juros, multas\) e depois clique em salvar.
 
-![Tela de vendas](../../../.gitbook/assets/5-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/5-financeiro.png)
 
 Pronto! Apartir de agora, caso a conta esteja relacionada á alguma venda, o seu status financeiro será atualizado.
 
-![Tela de vendas](../../../.gitbook/assets/6-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/6-financeiro.png)
 
 ## Como realizar o estorno de alguma conta?
 
 Para realizar o estorno de alguma conta, selecione a opção **`Estornar`** no menu superior direito dentro da conta em análise.
 
-![Tela de vendas](../../../.gitbook/assets/7-financeiro.png)
+![](/ERP/assets/manuais-de-uso/financeiro/7-financeiro.png)
 
 Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada e o valor de baixa será zerado.
-
