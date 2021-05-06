@@ -25,14 +25,14 @@ Os seguintes campos precisam ser preenchidos.
 * O tipo de movimentação utilizado.
 * Tipo de negociação \(forma de pagamento\)
 * Conta \(conta bancária\)
-* Data Negociação \(data de início da conta\)
-* Data de Vencimento
+* Data Negociação \(data de início da fatura\)
+* Data de Vencimento da fatura
 * Valor do desdobramento \(quantia a ser paga ou recebida\)
 
 Os demais campos são opcionais:
 
-* A natureza da conta, categorizando o tipo da receita ou despesa, por exemplo \(despesas com viagem, serviços, receitas administrativas\).
-* Centro de resultado, este é responsável pela divisão dos setores da empresa \(ADMINISTRATIVO, MARKETING, SÓCIOS, PARCEIROS, COMERCIAL...\).
+* A natureza da conta, categorizando o tipo da receita ou despesa, por exemplo \(despesas com viagem, serviços, receitas administrativas\), este campo é muito útil para a realização do plano de contas de sua empresa, em que os gastos ou receitas ficam divididos por gategorias, lembrando que o plano de contas também é utilizado na elaboração do Orçamento Empresarial.
+* Centro de resultado, este é responsável pela divisão dos setores da empresa \(ADMINISTRATIVO, MARKETING, SÓCIOS, PARCEIROS, COMERCIAL...\), o centro de resultado pode ser definido durante o cadastro do vendedor.
 * Valores de juro e multa
 * Histórico \(observações para conta\)
 
@@ -56,4 +56,12 @@ Para realizar o estorno de alguma conta, selecione a opção **`Estornar`** no m
 
 ![](/ERP/assets/manuais-de-uso/financeiro/7-financeiro.png)
 
-Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada e o valor de baixa será zerado.
+Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada, o valor de baixa será zerado e o status financeiro da venda voltará a ser azul.
+
+## Como gerar relatórios sobre o financeiro?
+
+Primeiramente, selecione o tipo de relatório que deseja gerar, **contas a receber**, **contas a pagar** ou **fluxo de caixa**?
+
+![](/ERP/assets/manuais-de-uso/financeiro/8-financeiro.png)
+
+Após selecionar o relatório desejado, escolha o período e as opções de filtragem para a sua geração, após isso basta clicar em "**Gerar Relatório**", um documento será gerado com as informações solicitadas, assim fica fácil controlar o financeiro de sua empresa.

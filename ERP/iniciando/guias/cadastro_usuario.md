@@ -16,7 +16,7 @@ As abas de **`Notificações`**, **`Access Tokens`**, **`Metadata`** e **`Events
 
 ## Perfis de Acesso
 
-Cada usuário terá um certo nível de acesso a certas funcionalidades do sistema de acordo com o seu **`Perfil`**, 
+Cada usuário terá um certo nível de acesso a certas funcionalidades do sistema de acordo com o seu **`Perfil`**.
 
 * User - Esse usuário terá acesso básico ao sistema, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
 
