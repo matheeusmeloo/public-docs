@@ -36,6 +36,10 @@ Os demais campos são opcionais:
 * Valores de juro e multa
 * Histórico \(observações para conta\)
 
+## Controle de contas
+
+Você também pode anexar suas faturas através da aba **`anexos`**, para isso ao editar uma conta, selecione a aba e clique em **Adicionar Item**, 
+
 ## Como realizar a baixa de alguma conta?
 
 Para realizar a baixa manual de alguma conta no financeiro, selecione a opção **`Baixar`** no menu superior direito dentro da conta em análise.

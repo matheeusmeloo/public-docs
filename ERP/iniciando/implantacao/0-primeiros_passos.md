@@ -2,6 +2,14 @@
 
 Antes de utilizar o sistema, primeiro você deve analisar como o seu negócio funciona, quantas unidades você possui, parcerias, formas de pagamento e oque você deseja fazer com cada funcionalidade.
 
+## Fluxo de comissões
+
+Para que sua empresa trabalhe com o modelo de parceiros indicadores, primeiro precisamos adicionar uma tabela de comissão para o seu parceiro, essa tabela será usada sobre o preço de venda de cada item. Além de definir a comissão de seus parceiros, você pode monitorar as indicações realizadas através de um relatório específico na página de vendas. Para configurar os seus parceiros você também deve cadastrar e ativar os tipos de parceria no sistema.
+
+Pronto, com essas configurações iniciais você já pode trabalhar com o modelo de paceria.
+
+### Parceiros 
+
 ## Modelo multiunidades
 
 Caso a sua empresa possua várias unidades é essencial que você saiba como cadastrar uma nova unidade, gerenciar o seu estoque e preços. Com o Gestão Online é possível você fazer tudo isso e muito mais.
