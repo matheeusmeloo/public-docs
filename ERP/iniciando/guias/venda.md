@@ -38,13 +38,19 @@ Complete os campos relacionados ao item:
 * Se deseja adicionar um desconto ao 'produto/serviço' do seu cliente, selecione o desconto em percentual ou em valor.  O valor ou percentual selecionado será descontado de cima de cada certificado.
 * Em seguida clique em ''salvar'' para gravar a venda.
 
-![Adicionar item a venda](/ERP/assets/manuais-de-uso/vendas/4-vendas.png)
+## Solicitando desconto
 
-* logo depois clique em ''confirmar'' logo acima na cor  'verde'.
+Caso o desconto adicionado pelo vendedor seja maior que o seu perfil de desconto, uma nova entrada será criada em liberações após a tentativa de confirmação da venda e um aviso irá informar que a venda não pode ser confirmada.
+
+Apartir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
 
 {% hint style="warning" %}
 **Cuidado**: Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
+
+* logo depois clique em ''confirmar'' logo acima na cor  'verde'.
+
+![Adicionar item a venda](/ERP/assets/manuais-de-uso/vendas/4-vendas.png)
 
 ## Geração de Boletos
 
@@ -66,6 +72,12 @@ O financeiro será baixado automaticamente caso a venda tenha sido realizada uti
 
 Para realizar uma baixa ou estorno de algum pagamento confira nosso [guia](financeiro.md) sobre o financeiro.
 
+# Recibos
+
+Para que um comprovante de pagamento seja gerado, escolha a opção **Recibos** no menu superior, um pdf será gerado com o resumo da compra.
+
+![](/ERP/assets/manuais-de-uso/vendas/10-vendas.png)
+
 ## Cancelar uma venda
 
 Com alguns cliques você será capaz de cancelar sua venda, para isso certifique-se que não há movimentações fiscais ou baixas no financeiro referente a essa venda, caso haja alguma realize o seu estorno.
@@ -82,4 +94,8 @@ Para gerar novos boletos é fácil selecione a aba `Financeiro` na página da ve
 
 Clique em editar a conta, caso ela ainda não tenha baixa financeira e altere a data de vencimento para outra qualquer, após isso basta clicar em `Salvar` e depois gerar o boleto novamente.
 
-![Gerar Boleto](/ERP/assets/manuais-de-uso/vendas/9-vendas.png)
+![](/ERP/assets/manuais-de-uso/vendas/9-vendas.png)
+
+## Notas Fiscais
+
+Para gerar a nota fiscal para venda, utilize um tipo de movimentação com a opção *Gera Fiscal* ativa, após isso ao confirmar a venda o botão  **`Gera NF`** estará disponível, selecione-o para que o pdf e xml sejam gerados, você pode baixá-los através da aba **Anexos**.
