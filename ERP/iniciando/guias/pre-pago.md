@@ -18,7 +18,7 @@ Para isso basta acessar a página `Contrato do controle Pré-Pago` e preencher o
 
 ## Movimentações em pré pago
 
-A unidade começara com o saldo zerado e limite estipulado previamente. Após cada venda o saldo é somado ao valor da movimentação e é apresentado um total com saldo + limite.
+A unidade começa com o saldo zerado e limite estipulado previamente. Após cada venda o saldo é somado ao valor da movimentação e é apresentado um total com saldo + limite.
 
 * Para adicionar um valor ao saldo da unidade é preciso realizar uma venda com um tipo de movimentação que atualize o pré pago como receita.
 * Para remover uma quantia do saldo basta realizar uma venda com um tipo de movimentação que atualize o pré pago como despesa.

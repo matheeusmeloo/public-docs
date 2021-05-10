@@ -12,10 +12,11 @@ Um formulário será aberto solicitando as informações da tabela, escolha o se
 
 ## Tabelas com Origem/Herança
 
-O sistema Gestão Online oferece flexibilidade para ajustar suas tabelas, através da seção **`Origem/Herança`** é possível cadastrar uma tabela da qual os preços serão herdados e também selecionar uma porcentagem para calcular um valor de retirada dos itens. Além disso, você também pode adicionar os mesmos itens da tabela herdada porém com valores diferentes.
+O sistema Gestão Online oferece flexibilidade para ajustar suas tabelas, através da seção **`Origem/Herança`** é possível cadastrar uma tabela da qual os preços serão herdados e também selecionar uma porcentagem para calcular um valor de retirada dos itens. Além disso, você também pode adicionar os mesmos itens da tabela herdada à nova porém com valores diferentes.
 
 **Por exemplo**: Cadastre uma tabela chamada `Comissão` que herde da tabela `Teste` retirando 10% do preço de cada item, então você pode adicionar um mesmo item da tabela `Teste` na tabela `Comissão` com um valor completamente diferente.
 
+Caso queira impedir que a nova tabela herde todos os itens da anterior, adicione os itens que não deseja herdar a um grupo e selecione o grupo no campo **Grupo de produto**.
 
 ### Tabelas para comissão
 

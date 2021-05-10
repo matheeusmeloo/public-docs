@@ -1,5 +1,7 @@
 # Cadastro de Parceiro
 
+No sistema Gestão Online também é possível administrar seus parceiros. Caso a sua empresa tenha algum modelo de indicação por contadores, você pode adicioná-los ao sistema, definir as suas indicações, monitorar os seus ganhos e gerar relatórios para facilitar o controle do comissionamento.
+
 Para cadastrar um parceiro abra a página "Cliente/parceiro" através da barra de pesquisa.
 
 ![](/ERP/assets/manuais-de-uso/cliente-parceiro/1-cliente-parceiro.png)
@@ -16,7 +18,7 @@ Dica: Verifique se o tipo de parceria escolhido está habilitado na página **`T
 
 ## Detalhes do Parceiro Indicador
 
-Aqui são definidas as informações relacionadas ao parceiro, sua comissão, descrição, categoria, imagem e configurações como o link de venda online que será usado pelo parceiro para realizar vendas .
+Aqui são definidas as informações relacionadas ao parceiro, sua comissão, descrição, categoria, imagem e configurações como o link de venda online que será usado pelo parceiro para realizar vendas.
 
 ![](/ERP/assets/manuais-de-uso/cliente-parceiro/6-cliente-parceiro.png)
 

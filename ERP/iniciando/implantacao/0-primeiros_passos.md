@@ -4,7 +4,7 @@ Antes de utilizar o sistema, primeiro você deve analisar como o seu negócio fu
 
 ## Fluxo de comissões
 
-Para que sua empresa trabalhe com o modelo de parceiros indicadores, primeiro precisamos adicionar uma tabela de comissão para o seu parceiro, essa tabela será usada sobre o preço de venda de cada item. Além de definir a comissão de seus parceiros, você pode monitorar as indicações realizadas através de um relatório específico na página de vendas. Para configurar os seus parceiros você também deve cadastrar e ativar os tipos de parceria no sistema.
+Para que sua empresa trabalhe com o modelo de parceiros indicadores, primeiro precisamos adicionar uma tabela de comissão para os seus parceiros, essa tabela será usada sobre o preço de venda de cada item. Além de definir a comissão de seus parceiros, você pode monitorar as indicações realizadas através de um relatório específico na página de vendas. Para configurar os seus parceiros você também deve cadastrar e ativar os tipos de parceria no sistema.
 
 Pronto, com essas configurações iniciais você já pode trabalhar com o modelo de paceria.
 
@@ -25,3 +25,11 @@ A matriz/sede deve receber os pagamentos em boleto ou cartão, uma **tabela de p
 ### Caso 3 - A matriz/sede recebe o cliente e não há custo ou comissão
 
 Nesse caso o vendedor pode escolher qualquer forma de pagamento e não há repasse de custos ou comissões e a única tabela utilizada é a principal com o valor final do item.
+
+## Controle de Estoque
+
+Caso os itens vendidos pela sua empresa possuam estoque, será necessário implementar outro módulo para que você consiga controlar a quantidade mínima e máxima de cada item em qualquer unidade que você possua. Dessa forma, caso um item atinja a sua quantidade mínima, um email será disparado ao responsável para que recarregue o seu respectivo local de estoque.
+
+## Controle de Descontos
+
+Caso você queira definir um perfil de desconto para cada vendedor ou solicitar a liberação de descontos verifique nosso guia para vendedores com descontos clicando <a href="/ERP/iniciando/guias/vendedor.md">aqui</a>

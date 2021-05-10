@@ -1,6 +1,6 @@
 # Relatórios
 
-O sistema Gestão Online também conta com um módulo específico para a geração e controle de relatórios, com toda a flexibilidade e rapidez que sua empresa precisa.
+O sistema Gestão Online conta com um módulo específico para a geração e controle de relatórios, com toda a flexibilidade e rapidez que sua empresa precisa.
 
 ## Como utilizar relatórios ?
 
