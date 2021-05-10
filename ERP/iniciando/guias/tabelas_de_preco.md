@@ -8,7 +8,20 @@ Para cadastrar uma tabela de preço, procure pela página **`Tabela de preços`*
 
 Um formulário será aberto solicitando as informações da tabela, escolha o seu nome, data em que entrará em vigor e o seus tipos. O seu tipo determinará qual a modalidade em que a tabela será utilizada e seu propósito, venda comum, venda online, custo, comissão ou comissão de indicador.
 
+## Tipos de Tabelas de Preço
+
 ![](/ERP/assets/manuais-de-uso/tabelas-de-preco/2-tabela-de-preco.png)
+
+
+* Tabela de Venda: Esse tipo de tabela é utilizado para determinar o preço final dos itens em uma determinada unidade, ou seja o preço de venda para o cliente.
+
+* Tabela de Venda Online: Utilizada para precificar os itens do ecommerce da unidade.
+
+* Tabela de Comissão: Esse tipo de tabela é utilizada para o modelo de comissão Matriz -> Unidade, após a venda feita no **cartão** ou **boleto** a Matriz/Sede recebe o dinheiro e repassa a comissão (determinada pela tabela) para a Unidade.
+
+* Tabela de Custo: Tabela usada no modelo custo Unidade -> Matriz, após a venda feita no **dinheiro** a unidade recebe o pagamento e repassa o custo do produto (determinado pela tabela) para a Matriz/Sede ficando com a diferenca.
+
+* Tabela de Comissão Indicador: Essa será usada para determinar o quanto um parceiro indicador ganhará sobre cada venda de indicações bem sucedidas.
 
 ## Tabelas com Origem/Herança
 
