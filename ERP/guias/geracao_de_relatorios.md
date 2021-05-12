@@ -6,9 +6,9 @@ O sistema Gestão Online conta com um módulo específico para a geração e con
 
 Os casos mais comuns para a geração de relatórios são na página de **Vendas** e **Financeiro**, para gerar um relatório selecione uma das opções do menu superior direito da tela com o ícone de documento.
 
-![](/ERP/assets/manuais-de-uso/relatorios/1-relatorios.png)
+![](/ERP/assets/manuais_de_uso/relatorios/1_relatorios.png)
 
-![](/ERP/assets/manuais-de-uso/relatorios/2-relatorios.png)
+![](/ERP/assets/manuais_de_uso/relatorios/2_relatorios.png)
 
 Ao clicar no relatório desejado um filtro será aberto, selecione as opções de filtragem que deseja utilizar para gerar o relatório (unidades, período, cliente, vendedor). Após preencher o filtro clique na opção **`Gerar Relatório`**, um documento será gerado em uma nova aba no caso de um pdf, ou será baixado caso seja uma planilha.
 
@@ -18,7 +18,7 @@ Geralmente, quando um relatório está sendo gerado serão necessárias duas dat
 
 Para criar um relatório pesquise pela página **`Widgets and reports`**.
 
-![](/ERP/assets/manuais-de-uso/relatorios/3-relatorios.png)
+![](/ERP/assets/manuais_de_uso/relatorios/3_relatorios.png)
 
 Selecione a opção `Adicionar Item`, um formulário será aberto solicitando as informações do widget ou report. 
 

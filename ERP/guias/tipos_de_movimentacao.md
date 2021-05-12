@@ -4,9 +4,9 @@ Com o Gestão Online é possível definir o comportamento de cada movimentação
 
 Os tipos de movimentação podem ser usados para:
 
-- Definir o comportamento das entradas no **Financeiro**.
-- Controlar as mudanças feitas por cada venda no sistema.
-- Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
+_ Definir o comportamento das entradas no **Financeiro**.
+_ Controlar as mudanças feitas por cada venda no sistema.
+_ Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
 
 Através dos tipos de movimentação você poderá definir se uma venda irá:
 
@@ -21,15 +21,15 @@ Através dos tipos de movimentação você poderá definir se uma venda irá:
 
 Para definir um tipo de movimentação busque pela página, **`Tipo de Movimentação`**.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/1-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/1_movimentacao.png)
 
-Aqui serão listados os tipos de movimentação, além de editá-los ou excluí-los, você também pode adicionar novos tipos, para isso selecione a opção **`Adicionar item`**.
+Aqui serão listados os tipos de movimentação, além de editá_los ou excluí_los, você também pode adicionar novos tipos, para isso selecione a opção **`Adicionar item`**.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/2-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/2_movimentacao.png)
 
 Um formulário será aberto, solicitando as informações do tipo de movimentação a ser adicionado. Mais campos aparecerão de acordo com o **Tipo** selecionado.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/3-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/3_movimentacao.png)
 
 Cada uma dessas opções irá determinar se alguma ação deve ser realizada ou não no sistema:
 
@@ -48,18 +48,18 @@ Esta opção habilita a geração do código de venda, este pode ser usado atrav
 * **Permite Desconto**
 Caso esta opção esteja desabilitada, os vendedores não podem liberar desconto.
 * **Permite Indicação**
-Permite a venda com indicações e comissionamentos, parceiro indicador -> cliente.
+Permite a venda com indicações e comissionamentos, parceiro indicador _> cliente.
 
 Conforme as opções forem sendo ativadas, novos campos surgirão.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/4-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/4_movimentacao.png)
 
 ## Restrições de Uso
 
 Para restringir o uso de algum tipo de movimentação, selecione a opção **Restrições/Exceções**.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/5-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/5_movimentacao.png)
 
 Um formulário será aberto solicitando os filtros que deseja aplicar para definir quem ou em que circunstâncias o tipo de movimentação em edição deverá ser utilizado.
 
-![](/ERP/assets/manuais-de-uso/tipos-de-movimentacao/6-movimentacao.png)
+![](/ERP/assets/manuais_de_uso/tipos_de_movimentacao/6_movimentacao.png)

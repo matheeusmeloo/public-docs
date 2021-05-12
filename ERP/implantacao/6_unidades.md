@@ -30,5 +30,5 @@ Ao registrar uma unidade os seguintes campos são necessários:
 
 ### Exemplo
 
-![Cadastro de Unidade](../../../.gitbook/assets/fluxo-unidade.gif)
+![Cadastro de Unidade](/ERP/assets/implantacoes/fluxo_unidade.gif)
 

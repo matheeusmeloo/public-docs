@@ -1,4 +1,4 @@
-# 2 - Tabelas de Preços
+# 2 _ Tabelas de Preços
 
 Nesta página é possível editar as tabelas de preços que serão vinculadas as unidades, parceiros ou ecommerce. .
 
@@ -36,5 +36,5 @@ Após alterar os dados selecione `Salvar` no menu superior direito
 
 ### Exemplo
 
-![Cadastro de tabela de pre&#xE7;o](../../../.gitbook/assets/fluxo-tabela-de-precos.gif)
+![Cadastro de tabela de pre&#xE7;o](../../../.gitbook/assets/fluxo_tabela_de_precos.gif)
 

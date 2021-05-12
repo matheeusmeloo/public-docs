@@ -2,27 +2,27 @@
 
 Antes de cadastrar suas tabelas de preço, devemos adicionar os Produtos/Serviços que serão comercializados pela sua empresa. Para isso, pesquise pela página **`Empresa`** clicando sobre o ícone de pesquisa, após entrar nela clique em **Adicionar Item**.
 
-![](/ERP/assets/manuais-de-uso/produtos/1-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/1_produto.png)
 
-Um formulário será aberto solicitando os dados do produto a ser adicionado, após preencher os campos obrigatórios, selecione a opção **Salvar**. Pronto você adicionou um produto, agora pode adicioná-lo em diferentes tabelas de preço.
+Um formulário será aberto solicitando os dados do produto a ser adicionado, após preencher os campos obrigatórios, selecione a opção **Salvar**. Pronto você adicionou um produto, agora pode adicioná_lo em diferentes tabelas de preço.
 
-![](/ERP/assets/manuais-de-uso/produtos/2-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/2_produto.png)
 
 ## Itens
 
 Os kits são produtos que possuem "Itens" em seu cadastro. Após cadastrar o produto, selecione a aba **Itens** em sua edição e clique em **Adicionar Item**.
 
-![](/ERP/assets/manuais-de-uso/produtos/3-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/3_produto.png)
 
  Escolha o produto que deseja adicionar como item ao kit e sua quantidade, este produto deve possuir estoque para que sua quantidade seja debitada após a venda do kit.
 
-![](/ERP/assets/manuais-de-uso/produtos/4-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/4_produto.png)
 
 ## Estoque
 
 Nesta aba serão listados todos os estoques aos quais o produto em edição pertence no caso de um *Token* por exemplo.
 
-![](/ERP/assets/manuais-de-uso/produtos/6-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/6_produto.png)
 
 Você também pode adicionar um estoque ao produto em edição através desta aba, basta clicar em **Adicionar Item**, selecione o local e o estoque
 
@@ -32,13 +32,13 @@ Para incluir seu produto em uma determinada categoria, selecione a aba **Categor
 
 As categorias de produtos podem ser utilizadas para categorizar o seu ecommerce ou organizar o seu estoque.
 
-![](/ERP/assets/manuais-de-uso/produtos/5-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/5_produto.png)
 
 ## Tabelas de preço
 
 Nessa aba são listadas todas as tabelas de preço em que o produto já foi adicionado.
 
-![](/ERP/assets/manuais-de-uso/produtos/6-produto.png)
+![](/ERP/assets/manuais_de_uso/produtos/6_produto.png)
 
 Aqui também é possível adicionar o produto a outras tabelas, selecione a opção **Adicionar Item** informe o valor do produto e a tabela em que será adicionado e clique em salvar.
 
