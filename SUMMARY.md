@@ -75,5 +75,4 @@
     * [Financeiro](ERP/guias/financeiro.md)
     * [Sistema Pré/Pós pago](ERP/guias/pre-pago.md)
     * [Geração de Relatórios](ERP/guias/geracao_de_relatorios.md)
-  * [Índice](ERP/summary.md)
 * [Portal](Portal/README.md)
