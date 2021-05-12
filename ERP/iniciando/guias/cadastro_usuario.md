@@ -1,4 +1,4 @@
-# Usuários
+# Cadastro de Usuários
 
 Estes serão os responsáveis pelo gerenciamento do seu sistema, podem gerar relatórios ou alterar certas informações de acordo com seu perfil de acesso.
 
