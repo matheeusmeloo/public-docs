@@ -12,7 +12,10 @@ Neste modo você conseguirá:
 Aqui serão mostrados gráficos detalhados sobre as indicações feitas por você ou pelo seu parceiro anteriormente.
 
 <div class="center">
-  <img class="guide_image" src="/ERP/assets/portal/3_portal.png">
+  <img style="
+    border: 2px solid black;
+    border-radius: 6px;
+  " src="/ERP/assets/portal/3_portal.png">
 </div>
 
 Passando o mouse sobre cada gráfico é possível ver detalhes sobre as informações apresentadas, a quantidade de um determinado produto/serviço indicado em específico ou o número total de indicações em um certo período.
