@@ -77,3 +77,5 @@
     * [Sistema Pré/Pós pago](ERP/guias/pre-pago.md)
     * [Geração de Relatórios](ERP/guias/geracao_de_relatorios.md)
 * [Portal](Portal/README.md)
+  * [Modo Parceiro](Portal/parceiro.md)
+  * [Modo Cliente](Portal/cliente.md)
