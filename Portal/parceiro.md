@@ -11,7 +11,7 @@ Neste modo você conseguirá:
 
 Aqui serão mostrados gráficos detalhados sobre as indicações feitas por você ou pelo seu parceiro anteriormente.
 
-![](/ERP/assets/portal/3_portal.png){border: 2px solid black;}
+![](/ERP/assets/portal/3_portal.png)
 
 Passando o mouse sobre cada gráfico é possível ver detalhes sobre as informações apresentadas, a quantidade de um determinado produto/serviço indicado em específico ou o número total de indicações em um certo período.
 
@@ -21,32 +21,22 @@ Abaixo será carregada uma listagem com todas as indicações realizadas.
 **Dica**: Você pode selecionar o período que deseja visualizar no dashboard através do ícone de filtragem no canto superior direito.
 {% endhint %}
 
-<kbd>
-  <img src="/ERP/assets/portal/4_portal.png">
-</kbd>
+![](/ERP/assets/portal/4_portal.png)
 
 ## Minhas Indicações
 
 Aqui você pode verificar uma lista completa com todos os seus indicados, inclusive adicionar ou removê-los. Para adicionar um cliente clique em **`Nova Indicação`** ou **`Importar Lista`**.
 
-<div class="center">
-  <img class="guide_image" src="/ERP/assets/portal/6_portal.png">
-</div>
+![](/ERP/assets/portal/6_portal.png)
 
 Um formulário será aberto solicitando as informações do cliente caso seja somente 1.
 
-<div class="center">
-  <img class="guide_image" src="/ERP/assets/portal/7_portal.png">
-</div>
+![](/ERP/assets/portal/7_portal.png)
 
 Caso tenha escolhido importar uma lista de indicações, selecione a opção "**Importar lista**" no canto superior direito, um formulário será aberto.
 
-<div class="center">
-  <img class="guide_image" src="/ERP/assets/portal/8_portal.png">
-</div>
+![](/ERP/assets/portal/8_portal.png)
 
 Selecione o arquivo no formato de planilha que deseja importar. Assim que ele for adicionado suas colunas serão carregadas para que você determine a relação entre oque será importado e oque há no arquivo.
 
-<div class="center">
-  <img class="guide_image" src="/ERP/assets/portal/9_portal.png">
-</div>
+![](/ERP/assets/portal/9_portal.png)
