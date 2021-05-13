@@ -40,3 +40,29 @@ Caso tenha escolhido importar uma lista de indicações, selecione a opção "**
 Selecione o arquivo no formato de planilha que deseja importar. Assim que ele for adicionado suas colunas serão carregadas para que você determine a relação entre oque será importado e oque há no arquivo.
 
 ![](/ERP/assets/portal/9_portal.png)
+
+Após selecionar a correspondecia entre as colunas clique em "**Começar Importação**".
+
+![](/ERP/assets/portal/10_portal.png)
+
+Durante a importação um log será gerado com os dados de cada cliente importado e o status de sucesso ou falha.
+
+![](/ERP/assets/portal/11_portal.png)
+
+Após finalizar a importação os novos indicados estarão disponíveis na lista e cadastrados como clientes no sistema.
+
+## Informações do Parceiro Indicador
+
+No modo indicador você pode visualizar os seus dados clicando sobre o ícone do seu perfil e selecionando a opção **Minha Conta**, após selecionada um menu será aberto com todos os seus dados.
+
+![](/ERP/assets/portal/12_portal.png)
+
+Você também pode visualizar os seus dados bancários para recebimento das comissões através da opção **`Conta Bancária`**.
+
+![](/ERP/assets/portal/13_portal.png)
+
+Caso queira adicionar uma nova conta selecione a opção **Adicionar nova conta**. Um formulário será aberto solicitando as informações da conta.
+
+![](/ERP/assets/portal/14_portal.png)
+
+Preencha os dados da sua conta e clique em *Adicionar* e pronto sua conta para receber suas **comissões** foi cadastrada.
