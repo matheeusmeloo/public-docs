@@ -36,5 +36,5 @@ Após alterar os dados selecione `Salvar` no menu superior direito
 
 ### Exemplo
 
-![Cadastro de tabela de pre&#xE7;o](../../../.gitbook/assets/fluxo_tabela_de_precos.gif)
+![Cadastro de tabela de pre&#xE7;o](ERP/assets/fluxo/fluxo_tabela_de_precos.gif)
 
