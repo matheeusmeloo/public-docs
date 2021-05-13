@@ -1,16 +1,3 @@
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .guide_image {
-    border: 2px solid black;
-    border-radius: 6px;
-  }
-</style>
-
 # Modo Indicador
 
 Neste modo você conseguirá:
