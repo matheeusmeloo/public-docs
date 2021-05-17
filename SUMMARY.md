@@ -66,6 +66,7 @@
     * [Cadastro de Usuario](ERP/guias/cadastro_usuario.md)
     * [Cadastro de Parceiro](ERP/guias/cadastro_parceiro.md)
     * [Cadastro de Cliente](ERP/guias/cadastro_cliente.md)
+    * [Cadastro de Unidade](ERP/guias/cadastro_unidade.md)
     * [Produtos](ERP/guias/produtos.md)
     * [Tabelas de Preço](ERP/guias/tabelas_de_preco.md)
     * [Formas de Pagamento](ERP/guias/formas_de_pagamento.md)
