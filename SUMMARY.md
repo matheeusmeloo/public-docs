@@ -2,7 +2,7 @@
 
 * [Documentação ERP Gestão Online](README.md)
 * [ERP](ERP/README.md)
-  * [🚀 Implantação](ERP/implantacao/README.md)
+  * [🚀 Iniciando](ERP/implantacao/README.md)
     * [Primeiros Passos](ERP/implantacao/0_primeiros_passos.md)
     * [Emissão de NFS-e e NFE](ERP/implantacao/9_notas_fiscais.md)
     * [1 - Produtos](ERP/implantacao/1_produtos.md)
