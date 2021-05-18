@@ -1,10 +1,12 @@
 # Tabelas de preço
 
-Tabelas de preços podem ser utilizadas através do sistema para precificar os produtos em diferentes modalidades de venda, pré_pago, ecommerce, vendas normais ou os seus custos.
+Tabelas de preços podem ser utilizadas através do sistema para precificar os produtos em diferentes modalidades de venda, pré_pago, ecommerce, vendas normais ou os seus custos. São adicionadas dentro do cadastro das unidades para determinar o preço dos itens em cada modalidade.
 
 Para cadastrar uma tabela de preço, procure pela página **`Tabela de preços`** através do ícone de pesquisa.
 
 ![](/ERP/assets/manuais_de_uso/tabelas_de_preco/1_tabela_de_preco.png)
+
+Para criar uma nova tabela selecione a opção **Adicionar Item** no menu secundário padrão.
 
 Um formulário será aberto solicitando as informações da tabela, escolha o seu nome, data em que entrará em vigor e o seus tipos. O seu tipo determinará qual a modalidade em que a tabela será utilizada e seu propósito, venda comum, venda online, custo, comissão ou comissão de indicador.
 
@@ -17,15 +19,29 @@ Um formulário será aberto solicitando as informações da tabela, escolha o se
 
 * Tabela de Venda Online: Utilizada para precificar os itens do ecommerce da unidade.
 
-* Tabela de Comissão: Esse tipo de tabela é utilizada para o modelo de comissão Matriz _> Unidade, após a venda feita no **cartão** ou **boleto** a Matriz/Sede recebe o dinheiro e repassa a comissão (determinada pela tabela) para a Unidade.
+* Tabela de Comissão: Esse tipo de tabela é utilizada para o modelo de comissão, em que após a venda feita no **cartão** ou **boleto** a Matriz/Sede recebe o dinheiro e repassa a comissão (determinada pela tabela) para a Unidade.
 
-* Tabela de Custo: Tabela usada no modelo custo Unidade _> Matriz, após a venda feita no **dinheiro** a unidade recebe o pagamento e repassa o custo do produto (determinado pela tabela) para a Matriz/Sede ficando com a diferenca.
+* Tabela de Custo: Tabela usada no modelo custo, em que após a venda feita no **dinheiro** a unidade recebe o pagamento e repassa o custo do produto (determinado pela tabela) para a Matriz/Sede ficando com a diferenca.
 
-* Tabela de Comissão Indicador: Essa será usada para determinar o quanto um parceiro indicador ganhará sobre cada venda de indicações bem sucedidas.
+* Tabela de Comissão Indicador: Essa tabela será usada para determinar o quanto um <a href="ERP/guias/cadastro_parceiro.md">parceiro indicador</a> ganhará sobre cada venda feita para um cliente indicado por ele. Após a criação da tabela, para utilizá-la, adicione-a durante o cadastro do parceiro.
 
 ## Tabelas com Origem/Herança
 
-O sistema Gestão Online oferece flexibilidade para ajustar suas tabelas, através da seção **`Origem/Herança`** é possível cadastrar uma tabela da qual os preços serão herdados e também selecionar uma porcentagem para calcular um valor de retirada dos itens. Além disso, você também pode adicionar os mesmos itens da tabela herdada à nova porém com valores diferentes.
+O sistema Gestão Online oferece flexibilidade para ajustar suas tabelas, através da seção **`Origem/Herança`** é possível cadastrar uma nova tabela da qual os preços serão os mesmos de outra tabela e também selecionar uma porcentagem para aumentar ou diminuir o valor de cada item com base em uma tabela anterior. Além disso, você também pode adicionar os mesmos itens da tabela herdada à nova porém com valores diferentes.
+
+Por exemplo:
+  - Criar tabela base **A**:
+    
+    - Produto 1: R$ 100
+    - Produto 2: R$ 200
+
+  - Criar tabela **B** com Origem/Herança puxando da tabela **A** com 10% a menos em cada item, a estrutura da tabela **B** ficará:
+    
+    - Produto 1: R$ 90
+    - Produto 2: R$ 180
+
+  Assim não é necessário adicionar um item de cada vez na tabela **B**.
+
 
 **Por exemplo**: Cadastre uma tabela chamada `Comissão` que herde da tabela `Teste` retirando 10% do preço de cada item, então você pode adicionar um mesmo item da tabela `Teste` na tabela `Comissão` com um valor completamente diferente.
 

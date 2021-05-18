@@ -1,5 +1,7 @@
 # Cadastro de Unidades
 
+As unidades são fundamentais para o funcionamento do sistema, através delas são definidas as tabelas de preço utilizadas pelos vendedores, o ecommerce de acordo com o plano adotado pelo cliente ou até mesmo o pré pago caso esteja incluída em algum contrato.
+
 Para adicionar uma nova unidade no Gestão Online é simples, pesquise pela página **Unidades** clicando sobre o ícone de pesquisa.
 
 ![](/ERP/assets/manuais_de_uso/unidades/1_unidade.png)

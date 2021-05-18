@@ -1,4 +1,4 @@
-# Formas de Pagamento
+# Tipos de Negociação
 
 Com o Gestão Online é possível definir as formas de pagamento e em quantas parcelas deseja receber para cada conta bancária pré cadastrada. Para isso pesquise pela página ´**Tipo de Negociação**´.
 

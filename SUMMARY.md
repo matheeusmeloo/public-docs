@@ -63,7 +63,6 @@
     * [Cadastro de Cliente](ERP/guias/cadastro_cliente.md)
     * [Cadastro de Unidade](ERP/guias/cadastro_unidade.md)
     * [Produtos](ERP/guias/produtos.md)
-    * [Tabelas de Preço](ERP/guias/tabelas_de_preco.md)
     * [Formas de Pagamento](ERP/guias/formas_de_pagamento.md)
     * [Tipos de Movimentação](ERP/guias/tipos_de_movimentacao.md)
     * [Tabelas de Preço](ERP/guias/tabelas_de_preco.md)

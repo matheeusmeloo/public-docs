@@ -48,7 +48,7 @@ Apartir de agora, um gestor deve liberar a solicitação de desconto para que a 
 **Cuidado**: Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
 
-* logo depois clique em ''confirmar'' logo acima na cor  'verde'.
+* Depois clique em **confirmar**. Pronto sua venda está feita, dependendo das configurações e integrações um código é gerado automaticamente e após a confirmação também é possível gerar boleto, notas fiscais e o link de pagamento.
 
 ![Adicionar item a venda](/ERP/assets/manuais_de_uso/vendas/4_vendas.png)
 

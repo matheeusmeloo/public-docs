@@ -1,10 +1,10 @@
 # Cadastro de Cliente
 
-Antes de realizar uma venda, devemos cadastrar um cliente, para isso abrimos a página "Cliente/parceiro" através da barra de pesquisa.
+Antes de realizar uma venda, cadastre um cliente, para isso abra a página **Cliente/Parceiro** através da barra de pesquisa.
 
 ![](/ERP/assets/manuais_de_uso/cliente_parceiro/1_cliente_parceiro.png)
 
-Para adicionar um cliente clique em "Adicionar item" no menu superior direito
+Para adicionar adicioná-lo clique em *Adicionar Item* no menu superior direito
 
 ![](/ERP/assets/manuais_de_uso/cliente_parceiro/2_cliente_parceiro.png)
 
@@ -12,7 +12,7 @@ Um formulário será aberto, basta preencher as informações referentes ao clie
 
 ## Indicações
 
-Se o cliente a ser cadastrado for indicado por algum parceiro adicione_o ao campo `Parceiro Indicador`
+Quando o cliente a ser cadastrado for indicado por algum parceiro adicione o parceiro que o indicou no campo **`Parceiro Indicador`**
 
 ![](/ERP/assets/manuais_de_uso/cliente_parceiro/4_cliente_parceiro.png)
 

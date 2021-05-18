@@ -1,4 +1,6 @@
-# Vendedores
+# Cadastro de Vendedor
+
+O vendedor será responsável por realizar vendas no sistema e gerar relatórios. A unidade da qual serão gerados os relatórios ou será feita a venda, assim como o estoque de onde os itens serão descontados após a venda são definidos em seu cadastro.
 
 Para que um usuário possa realizar vendas no Gestão Online, ele também deve possuir um cadastro como vendedor, para isso pesquise pela tela **`vendedor`**.
 
