@@ -66,7 +66,7 @@
     * [Formas de Pagamento](ERP/guias/formas_de_pagamento.md)
     * [Tipos de Movimentação](ERP/guias/tipos_de_movimentacao.md)
     * [Tabelas de Preço](ERP/guias/tabelas_de_preco.md)
-    * [Vendedores](ERP/guias/vendedor.md)
+    * [Vendedor](ERP/guias/vendedor.md)
     * [Vendas](ERP/guias/venda.md)
     * [Financeiro](ERP/guias/financeiro.md)
     * [Sistema Pré/Pós pago](ERP/guias/pre-pago.md)
