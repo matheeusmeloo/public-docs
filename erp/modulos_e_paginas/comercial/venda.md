@@ -16,13 +16,13 @@ Para que uma venda seja realizada primeiramente devemos preencher os seguintes c
 
 Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
 
-![](../../../../.gitbook/assets/botao-salvar-rascunho-vendas.png)
+![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/.gitbook/assets/botao-salvar-rascunho-vendas.png)
 
 ### Adicionando itens à venda
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
 
-![](../../../../.gitbook/assets/botao-adicionar-item-vendas.png)
+![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/.gitbook/assets/botao-adicionar-item-vendas.png)
 
 Complete os campos relacionados ao item:
 
