@@ -17,11 +17,11 @@ Nesta rota é possível realizar o login de acesso ao sistema.
 }
 ```
 
-{% codetab Python %}
+{% code-tabs Python %}
 ```python
 print("Hello, world!")
 ```
-{% endcodetab %}
+{% endcode-tabs %}
 
 ## Cabeçalho
 
