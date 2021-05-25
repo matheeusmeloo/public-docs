@@ -1,4 +1,4 @@
-# ERP
+# Interface de Usuário
 
 Esta seção tem como objetivo esclarecer as dúvidas dos usuários e os recursos oferecidos pela plataforma.
 
@@ -6,7 +6,7 @@ Esta seção tem como objetivo esclarecer as dúvidas dos usuários e os recurso
 
 A maioria das páginas possuem um menu principal no canto superior direito.
 
-![Imagem Menu Geral de P&#xE1;ginas](https://github.com/Gestao-Online/public-docs/tree/5cbf2bc054bdd64cfb7b8e1d014da0614f6fc832/ERP/assets/capturas-de-tela/menu-principal-paginas.png)
+![Imagem Menu Geral de P&#xE1;ginas](/ERP/assets/capturas-de-tela/menu-principal-paginas.png)
 
 Este menu pode variar em cada página e possui opções como salvar item, adicionar item, atualizar página, voltar, duplicar item e gerar relatórios.
 

@@ -12,7 +12,7 @@ No módulo comercial é possível realizar o cadastro de tabelas de preço e con
   * Data em que entrará em vigor **\***
   * Tabela de preço de origem
 
-  Obs: os itens sucedidos de **\*** são obrigatórios.
+  Obs: os itens sucedidos de **\*** são obrigatórios.   
 
 * Após alterar os dados selecione `Salvar` no menu superior direito
 
@@ -24,5 +24,5 @@ No módulo comercial é possível realizar o cadastro de tabelas de preço e con
 
 ### Exemplo
 
-![Cadastro de tabela de pre&#xE7;o](https://github.com/Gestao-Online/public-docs/tree/5cbf2bc054bdd64cfb7b8e1d014da0614f6fc832/.gitbook/assets/fluxo-tabela-de-precos.gif)
+![Cadastro de tabela de pre&#xE7;o](../../../../.gitbook/assets/fluxo-tabela-de-precos.gif)
 
