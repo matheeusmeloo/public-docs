@@ -74,9 +74,7 @@
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
-* [API](api/README.md)
-  * [Público](api/publico/README.md)
-    * [Listar Usuario](api/publico/listar-usuario.md)
-    * [Login](api/publico/login.md)
-  * [Privado](api/privado.md)
+* [API]()
+  * [Público]()
+    * [Login](api/public/login.md)
 

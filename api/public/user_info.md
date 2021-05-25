@@ -1,3 +1,0 @@
-# Informações do Usuário
-
-
