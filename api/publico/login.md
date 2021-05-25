@@ -6,13 +6,13 @@ Login
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Através desta 
+Através desta rota o usuário é capaz de logar no sistema.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter name="Origin" type="string" required=true %}
+{% api-method-parameter name="Origin" type="string" required=false %}
 https://suaempresa.gestao.plus
 {% endapi-method-parameter %}
 
