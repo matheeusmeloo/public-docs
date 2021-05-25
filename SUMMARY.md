@@ -76,7 +76,6 @@
   * [💰 Modo Cliente](portal/cliente.md)
 * [API](api/README.md)
   * [Público]()
-    * [Esqueci minha senha \(Email\)](api/public/forgot_email.md)
     * [Listar Usuario](api/public/list_user_info.md)
     * [Login](api/public/login.md)
   * [Privado]()
