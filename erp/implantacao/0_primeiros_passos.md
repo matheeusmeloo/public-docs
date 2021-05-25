@@ -1,4 +1,4 @@
-# Primeiros Passos Para Implantação do Gestão Online
+# Primeiros Passos
 
 Antes de utilizar o sistema, primeiro você deve analisar como o seu negócio funciona, quantas unidades você possui, parcerias, formas de pagamento e oque você deseja fazer com cada funcionalidade.
 
@@ -8,7 +8,7 @@ Para que sua empresa trabalhe com o modelo de parceiros indicadores, primeiro pr
 
 Pronto, com essas configurações iniciais você já pode trabalhar com o modelo de paceria.
 
-### Parceiros 
+### Parceiros
 
 ## Modelo multiunidades
 
@@ -16,7 +16,7 @@ Caso a sua empresa possua várias unidades é essencial que você saiba como cad
 
 ### Caso 1 - Unidade recebe o dinheiro e repassa a parte da sede como um custo
 
-Neste cenário as unidades cadastradas no sistema atendem o cliente recebendo no dinheiro, devem possuir uma **tabela de preço** com o valor final do produto e outra com o custo(valor de repasse para a sede), assim após cada venda a diferença entre o preço de venda final e custo fica para a unidade e o custo é transferido para a sede. O custo das vendas pode ser monitorado através de relatórios ou com o contrato da unidade e configuração dos tipos de movimentação para incluí-la no modelo pré-pago.
+Neste cenário as unidades cadastradas no sistema atendem o cliente recebendo no dinheiro, devem possuir uma **tabela de preço** com o valor final do produto e outra com o custo\(valor de repasse para a sede\), assim após cada venda a diferença entre o preço de venda final e custo fica para a unidade e o custo é transferido para a sede. O custo das vendas pode ser monitorado através de relatórios ou com o contrato da unidade e configuração dos tipos de movimentação para incluí-la no modelo pré-pago.
 
 ### Caso 2 - Matriz recebe o dinheiro e repassa a parte da unidade como uma comissão
 
@@ -32,4 +32,5 @@ Caso os itens vendidos pela sua empresa possuam estoque, será necessário imple
 
 ## Controle de Descontos
 
-Caso você queira definir um perfil de desconto para cada vendedor ou solicitar a liberação de descontos verifique nosso guia para vendedores com descontos clicando <a href="/ERP/iniciando/guias/vendedor.md">aqui</a>
+Caso você queira definir um perfil de desconto para cada vendedor ou solicitar a liberação de descontos verifique nosso guia para vendedores com descontos clicando [aqui](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/iniciando/guias/vendedor.md)
+

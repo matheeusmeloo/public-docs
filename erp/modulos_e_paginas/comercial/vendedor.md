@@ -17,7 +17,7 @@ Para que um usuário possa realizar vendas ele deve ser cadastrado como um vende
   * Centro de resultado
   * Local de estoque
 
-  Obs: os itens sucedidos de **\*** são obrigatórios.   
+  Obs: os itens sucedidos de **\*** são obrigatórios.
 
 Após cadastrar um vendedor é possível adicionar perfis de desconto ao mesmo. Os perfis de desconto determinam e liberam um limite em que o vendedor pode dar descontos podendo ser em percentual ou um valor.
 
