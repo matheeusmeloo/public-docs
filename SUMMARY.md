@@ -4,7 +4,7 @@
 * [ERP](erp/README.md)
   * [🚀 Iniciando](erp/implantacao/README.md)
     * [Primeiros Passos](erp/implantacao/0_primeiros_passos.md)
-    * [Emissão de NFS-e e NFE](erp/implantacao/emissao-de-nfs-e-e-nfe.md)
+    * [Emissão de NFS-e e NFE](erp/implantacao/emissao-de-nfse-e-nfe.md)
   * [📦 Módulos e Paginas](erp/modulos_e_paginas/README.md)
     * [Dashboard](erp/modulos_e_paginas/dashboard/README.md)
       * [Dashboard Agendamento](erp/modulos_e_paginas/dashboard/dashboard_agendamento.md)
@@ -77,4 +77,3 @@
 * [API]()
   * [Público]()
     * [Login](api/public/login.md)
-
