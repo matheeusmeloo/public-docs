@@ -1,6 +1,6 @@
 # Informações do Usuário
 
-{% api-method method="post" host="https://suaempresa.gestao.plus" path="/user?q=info" %}
+{% api-method method="post" host="https://api.gestao.plus" path="/user?q=info" %}
 {% api-method-summary %}
 Listar Usuário
 {% endapi-method-summary %}

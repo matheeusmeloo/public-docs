@@ -1,6 +1,6 @@
 # Esqueci Minha Senha \(Email\)
 
-{% api-method method="post" host="https://suaempresa.gestao.plus" path="/user?q=forgot-password" %}
+{% api-method method="post" host="https://api.gestao.plus" path="/user?q=forgot-password" %}
 {% api-method-summary %}
 Resetar Senha \(Email\)
 {% endapi-method-summary %}
