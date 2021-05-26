@@ -2,11 +2,11 @@
 
 Antes de realizar uma venda, cadastre um cliente, para isso abra a página **Cliente/Parceiro** através da barra de pesquisa.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/cliente_parceiro/1_cliente_parceiro.png)
+![](../../.gitbook/assets/1_cliente.png)
 
 Para adicionar adicioná-lo clique em _Adicionar Item_ no menu superior direito
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/cliente_parceiro/2_cliente_parceiro.png)
+![](../../.gitbook/assets/2_cliente.png)
 
 Um formulário será aberto, basta preencher as informações referentes ao cliente.
 
@@ -14,7 +14,7 @@ Um formulário será aberto, basta preencher as informações referentes ao clie
 
 Quando o cliente a ser cadastrado for indicado por algum parceiro adicione o parceiro que o indicou no campo **`Parceiro Indicador`**
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/cliente_parceiro/4_cliente_parceiro.png)
+![](../../.gitbook/assets/3_cliente_parceiro.png)
 
 Caso o cliente seja um parceiro verifique nosso [manual](cadastro_parceiro.md) para cadastro de parceiros indicadores
 
