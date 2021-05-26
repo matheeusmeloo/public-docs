@@ -74,11 +74,6 @@
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
-<<<<<<< HEAD
-* [API]()
-  * [Público]()
-    * [Login](api/public/login.md)
-=======
 * [API](api/README.md)
   * [Ecommerce \(INTEGRAÇÃO\)](api/ecommerce/README.md)
     * [Integração Manual](api/ecommerce/manual_integracao.md)
@@ -95,4 +90,3 @@
     * [Atualizar Informações do Usuário](api/private/update_user_info.md)
     * [Listar Dados do Usuário](api/private/list_user_info.md)
 
->>>>>>> 3ad23fc69b17d11fb00abfe28a154039eb567007
