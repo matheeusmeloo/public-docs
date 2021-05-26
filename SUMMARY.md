@@ -74,6 +74,25 @@
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
+<<<<<<< HEAD
 * [API]()
   * [Público]()
     * [Login](api/public/login.md)
+=======
+* [API](api/README.md)
+  * [Ecommerce \(INTEGRAÇÃO\)](api/ecommerce/README.md)
+    * [Integração Manual](api/ecommerce/manual_integracao.md)
+    * [Integração API](api/ecommerce/api_integration.md)
+  * [Público](api/public/README.md)
+    * [Recuperar Senha](api/public/password_recovery.md)
+    * [Esqueci Minha Senha \(SMS\)](api/public/passwors_reset_sms.md)
+    * [Esqueci Minha Senha \(Email\)](api/public/password_reset_email.md)
+    * [Informações do Usuário](api/public/listar-usuario.md)
+    * [Login](api/public/login.md)
+  * [Privado](api/private/README.md)
+    * [Atualizar Metadados do Usuário](api/private/update_user_metadata.md)
+    * [Listar Metadados do Usuário](api/private/list_user_metadata.md)
+    * [Atualizar Informações do Usuário](api/private/update_user_info.md)
+    * [Listar Dados do Usuário](api/private/list_user_info.md)
+
+>>>>>>> 3ad23fc69b17d11fb00abfe28a154039eb567007

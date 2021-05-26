@@ -1,6 +1,6 @@
 # Login
 
-{% api-method method="post" host="https://suaempresa.gestao.plus" path="/oauth" %}
+{% api-method method="post" host="https://api.gestao.plus" path="/oauth" %}
 {% api-method-summary %}
 Login
 {% endapi-method-summary %}
@@ -31,7 +31,7 @@ O seu nome de usuário geralmente o CPF
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="client\_secret" type="string" required=true %}
-"app"
+null
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="client\_id" type="string" required=true %}
