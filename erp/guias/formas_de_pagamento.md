@@ -2,19 +2,19 @@
 
 Com o Gestão Online é possível definir as formas de pagamento e em quantas parcelas deseja receber para cada conta bancária pré cadastrada. Para isso pesquise pela página ´**Tipo de Negociação**´.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/formas_de_pagamento/1_pagamento.png)
+![](../../.gitbook/assets/1_pagamento.png)
 
 Após abrir a página uma lista será carregada indicando as formas de pagamento cadastradas.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/formas_de_pagamento/2_pagamento.png)
+![](../../.gitbook/assets/2_pagamento.png)
 
 Caso deseje adicionar uma nova forma de pagamento selecione a opção _Adicionar item_, um formulário será aberto solicitando as informações básicas \(empresa, status, descrição\).
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/formas_de_pagamento/3_pagamento.png)
+![](../../.gitbook/assets/3_pagamento.png)
 
 Para determinar as parcelas, selecione a aba _parcelamento_, clique em adicionar item, um formulário será aberto solicitando os dados da parcela.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/formas_de_pagamento/4_pagamento.png)
+![](../../.gitbook/assets/4_pagamento.png)
 
 Ao adicionar uma parcela os seguintes campos devem ser especificados:
 
@@ -34,7 +34,7 @@ Para facilitar o controle financeiro da sua empresa, o Gestão Online oferece um
 
 Caso você utilize algum meio de pagamento que cobre taxas através dos pagamentos em cartão ou boleto, selecione a opção **Tipo de Taxa**, dependendo do tipo que escolher novos campos serão abertos.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/formas_de_pagamento/5_pagamento.png)
+![](../../.gitbook/assets/5_pagamento.png)
 
 Digite o valor da taxa, escolha o fornecedor do lançamento da taxa previamente cadastrado na página de clientes/parceiros e a natureza da taxa. Apartir de agora, o sistema irá realizar o lançamento de uma despesa no financeiro automaticamente após o pagamento de uma conta que utilize este tipo de negociação.
 

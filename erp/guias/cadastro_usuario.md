@@ -4,7 +4,7 @@ Estes serão os responsáveis pelo gerenciamento do seu sistema, podem gerar rel
 
 Para cadastrar um novo usuário pesquise pela página **`Usuário`** no ícone de pesquisa.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/usuarios/1_usuarios.png)
+![](../../.gitbook/assets/1_usuarios.png)
 
 Após abrir clique no ícone de `Adicionar Item`, um formulário será aberto solicitando os dados para adicionar o usuário.
 
@@ -20,7 +20,7 @@ O perfil de acesso define o papel um usuário no sistema.
 * **Admin** : Possui acesso á maioria das funcionalidades, pode cadastrar novos usuários como Admin ou User, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
 * **Superadmin** : Este perfil tem acesso **total** ao sistema e também pode realizar alterações em eventos e geração de relatórios em páginas como **`Notification Template`** e **`Reports and Widgets`**.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/usuarios/2_usuarios.png)
+![](../../.gitbook/assets/2_usuarios.png)
 
 {% hint style="warning" %}
 **Cuidado!** Por medidas de segurança, o **username** e **email** de um usuário não podem ser alterados manualmente após a sua inserção, para isso você deve solicitar a nossa equipe para que façamos as modificações necessárias.
@@ -30,5 +30,5 @@ O perfil de acesso define o papel um usuário no sistema.
 
 Ao editar um usuário você se depará com algumas abas, \(Notificações, Access Tokens, Metadata e Events\), estas nada mais são que metadados relacionados ao usuário, os quais são utilizados para acesso, notificações, eventos ou foto de perfil.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/usuarios/3_usuarios.png)
+![](../../.gitbook/assets/3_usuarios.png)
 

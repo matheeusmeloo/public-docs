@@ -8,7 +8,7 @@ Antes de cadastrar uma venda, a [empresa](venda.md), [cliente](venda.md), [produ
 
 Pesquise pela página **`Vendas`**, após abrir, clique em "adicionar item" para realizar uma nova venda.
 
-![Tela de vendas](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/1_venda.png)
+![Tela de vendas](../../.gitbook/assets/1_venda.png)
 
 ### Realizando Venda
 
@@ -22,7 +22,7 @@ Para que a venda seja realizada, primeiramente deve\_se preencher somente os seg
 
 Após completar os campos, no menu principal da página clique em _`Salvar Rascunho`_
 
-![Bot&#xE3;o Salvar Rascunho](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/2_venda.png)
+![Bot&#xE3;o Salvar Rascunho](../../.gitbook/assets/2_venda.png)
 
 **Os outros campos serão preenchidos automaticamente após salvar rascunho.**
 
@@ -30,7 +30,7 @@ Após completar os campos, no menu principal da página clique em _`Salvar Rascu
 
 Após salvar o rascunho de sua venda, clique em _`adicionar item`_ no menu de opções secundário dentro da aba itens.
 
-![Adicionar item a venda](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/3_vendas.png)
+![Adicionar item a venda](../../.gitbook/assets/3_vendas.png)
 
 Complete os campos relacionados ao item:
 
@@ -52,13 +52,13 @@ Apartir de agora, um gestor deve liberar a solicitação de desconto para que a 
 
 * Depois clique em **confirmar**. Pronto sua venda está feita, dependendo das configurações e integrações um código é gerado automaticamente e após a confirmação também é possível gerar boleto, notas fiscais e o link de pagamento.
 
-![Adicionar item a venda](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/4_vendas.png)
+![Adicionar item a venda](../../.gitbook/assets/4_vendas.png)
 
 ### Geração de Boletos
 
 * Clique em `gerar boleto` em seguida `emitir boletos`, o boleto gerado irá para aba `anexos`.
 
-![Gerar Boleto](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/5_vendas.png)
+![Gerar Boleto](../../.gitbook/assets/5_vendas.png)
 
 ### Links de Pagamento
 
@@ -66,7 +66,7 @@ Através do Gestão Online também é possível gerar links de pagamento após a
 
 * Caso a movimentação tenha sido realizada por boleto ou cartão o link de pagamento pode ser gerado através deste botão.
 
-![Gerar Boleto](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/6_vendas.png)
+![Gerar Boleto](../../.gitbook/assets/6_vendas.png)
 
 Após acessar o link, o cliente terá acesso ao resumo da venda e a meio de pagamento escolhido.
 
@@ -78,7 +78,7 @@ Para realizar uma baixa ou estorno de algum pagamento confira nosso [guia](finan
 
 Para que um comprovante de pagamento seja gerado, escolha a opção **Recibos** no menu superior, um pdf será gerado com o resumo da compra.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/10_vendas.png)
+![](../../.gitbook/assets/10_vendas.png)
 
 ### Cancelar uma venda
 
@@ -86,17 +86,17 @@ Com alguns cliques você será capaz de cancelar sua venda, para isso certifique
 
 * Clique em 'cancelar' em seguida escreva o motivo do cancelamento.
 
-![Gerar Boleto](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/7_vendas.png)
+![Gerar Boleto](../../.gitbook/assets/7_vendas.png)
 
 ### O boleto venceu e o cliente não pagou e agora?
 
 Para gerar novos boletos é fácil selecione a aba `Financeiro` na página da venda aberta.
 
-![Gerar Boleto](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/8_vendas.png)
+![Gerar Boleto](../../.gitbook/assets/8_vendas.png)
 
 Clique em editar a conta, caso ela ainda não tenha baixa financeira e altere a data de vencimento para outra qualquer, após isso basta clicar em `Salvar` e depois gerar o boleto novamente.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/vendas/9_vendas.png)
+![](../../.gitbook/assets/9_vendas.png)
 
 ### Notas Fiscais
 

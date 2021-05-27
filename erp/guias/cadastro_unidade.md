@@ -4,15 +4,15 @@ As unidades são fundamentais para o funcionamento do sistema, através delas s�
 
 Para adicionar uma nova unidade no Gestão Online é simples, pesquise pela página **Unidades** clicando sobre o ícone de pesquisa.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/unidades/1_unidade.png)
+![](../../.gitbook/assets/1_unidade.png)
 
 Ao abrir a página, uma lista de unidades será carregada, selecione a qual deseja editar ou adicione uma nova clicando sobre o ícone de _Adicionar Item_.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/unidades/2_unidade.png)
+![](../../.gitbook/assets/2_unidade.png)
 
 Um formulário será aberto solicitando as informações da unidade. Após preencher os dados básicos como descrição e endereço, você pode definir como os itens serão precificados para a realização de vendas nessa unidade.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/unidades/3_unidade.png)
+![](../../.gitbook/assets/3_unidade.png)
 
 Dentre as tabelas definidas na unidade temos:
 
@@ -36,7 +36,7 @@ Para isso, precisamos definir algumas regras para o ecommerce de uma unidade em 
 
 Pronto apartir de agora você poderá acessar o seu site de vendas online através da url suaempresa.gestao.plus/loja ou através do _link de venda online_ gerado pela unidade caso a opção `Gera Link` estiver ativa.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/unidades/4_unidade.png)
+![](../../.gitbook/assets/4_unidade.png)
 
-![Exemplo de Ecommerce Online](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/unidades/5_unidade.png)
+![Exemplo de Ecommerce Online](../../.gitbook/assets/5_unidade.png)
 

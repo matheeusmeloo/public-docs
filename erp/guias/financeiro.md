@@ -6,15 +6,15 @@ Com o módulo financeiro do Gestão Online você tem controle total das suas con
 
 Para gerenciar suas entradas no financeiro pesquise pela página **`Financeiro`**.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/1_financeiro.png)
+![](../../.gitbook/assets/1_financeiro.png)
 
 Uma lista será carregada descrevendo os detalhes de cada entrada. Para adicionar uma nova conta, clique em adicionar item no menu superior direito.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/2_financeiro.png)
+![](../../.gitbook/assets/2_financeiro.png)
 
 Um formulário será aberto solicitando os detalhes da conta a ser registrada.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/3_financeiro.png)
+![](../../.gitbook/assets/3_financeiro.png)
 
 Os seguintes campos precisam ser preenchidos.
 
@@ -44,21 +44,21 @@ Você também pode anexar suas faturas através da aba **`anexos`**, para isso a
 
 Para realizar a baixa manual de alguma conta no financeiro, selecione a opção **`Baixar`** no menu superior direito dentro da conta em análise.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/4_financeiro.png)
+![](../../.gitbook/assets/4_financeiro.png)
 
 Informe a data em que houve o recebimento, os valores \(descontos, juros, multas\) e depois clique em salvar.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/5_financeiro.png)
+![](../../.gitbook/assets/5_financeiro.png)
 
 Pronto! Apartir de agora, caso a conta esteja relacionada á alguma venda, o seu status financeiro será atualizado.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/6_financeiro.png)
+![](../../.gitbook/assets/6_financeiro.png)
 
 ## Como realizar o estorno de alguma conta?
 
 Para realizar o estorno de alguma conta, selecione a opção **`Estornar`** no menu superior direito dentro da conta em análise.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/7_financeiro.png)
+![](../../.gitbook/assets/7_financeiro.png)
 
 Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada, o valor de baixa será zerado e o status financeiro da venda voltará a ser azul.
 
@@ -66,11 +66,11 @@ Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada, o va
 
 Primeiramente, selecione o tipo de relatório que deseja gerar, **contas a receber**, **contas a pagar** ou **fluxo de caixa**?
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/8_financeiro.png)
+![](../../.gitbook/assets/8_financeiro.png)
 
 Após selecionar o relatório desejado, escolha o período e as opções de filtragem para a sua geração, após isso basta clicar em "**Gerar Relatório**", um documento será gerado com as informações solicitadas, assim fica fácil controlar o financeiro de sua empresa.
 
 Um relatório de contas a receber gerado como pdf terá a seguinte estrutura:
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/financeiro/9_financeiro.png)
+![](../../.gitbook/assets/9_financeiro.png)
 
