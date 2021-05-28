@@ -1,12 +1,12 @@
-# Checkout Usuário \(Boleto\)
+# Checkout \(Cartão de Crédito\)
 
-{% api-method method="post" host="https://api.gestao.plus" path="/order" %}
+{% api-method method="patch" host="https://api.gestao.plus" path="/order/checkout?t={token}" %}
 {% api-method-summary %}
-Checkout do usuário no boleto
+Checkout de pagamento para cartão de crédito
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Endpoint para geração do pedido em boleto.
+Com este endpoint você pode alterar as informações do cartão de crédito utilizado no checkout.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -15,27 +15,17 @@ Endpoint para geração do pedido em boleto.
 {% api-method-parameter name="Origin" type="string" required=true %}
 URL de origem da requisição
 {% endapi-method-parameter %}
-
-{% api-method-parameter name="Authorization" type="string" required=true %}
-Access Token no modelo "Bearer {token}"
-{% endapi-method-parameter %}
 {% endapi-method-headers %}
 
+{% api-method-query-parameters %}
+{% api-method-parameter name="t" type="string" required=true %}
+Token de acesso ao checkout
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+
 {% api-method-body-parameters %}
-{% api-method-parameter name="items" type="string" required=true %}
-Um array contendo objetos com o id do produto e quantidade comprada
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="type" type="string" required=true %}
-Tipo da movimentação, geralmente "V" de venda
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="negotiationType" type="string" required=true %}
-Tipo de negociação utilizado para a compra
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="uri" type="string" required=true %}
-Identificador do cliente
+{% api-method-parameter name="cardData" type="string" required=true %}
+Um objeto contendo os dados do cartão, seu nome "holderName", o mês de expiração "expirationMonth", ano de expiração "expirationYear", código de segurança "securityCode" e número do cartão "cardNumber".
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
@@ -43,7 +33,7 @@ Identificador do cliente
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+Sucesso ao alterar os dados do cartão.
 {% endapi-method-response-example-description %}
 
 ```text
@@ -53,7 +43,7 @@ Cake successfully retrieved.
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-Requisição inválida
+Requisição inválida.
 {% endapi-method-response-example-description %}
 
 ```text
@@ -61,7 +51,7 @@ Requisição inválida
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
     "status": 400,
-    "detail": "Invalid negotiation type for this scope"
+    "detail": "Fail to start checkout, payment cannot executed when status = 'CONCLUIDO'"
 }
 ```
 {% endapi-method-response-example %}

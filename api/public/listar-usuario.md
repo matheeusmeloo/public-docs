@@ -6,7 +6,7 @@ Informações de um usuário
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Este endpoint permite que você busque por informações de um usuário em específico através de seu CPF.
+Este endpoint permite que você busque por informações de um usuário em específico através de seu CPF, caso ele já tenha sido registrado as suas informações serão retornadas.
 {% endapi-method-description %}
 
 {% api-method-spec %}

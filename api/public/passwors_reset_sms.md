@@ -6,7 +6,7 @@ Resetar Senha \(SMS\)
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+Assim como na recuperação de senha por email, você poderá recuperar suas credenciais por SMS.
 {% endapi-method-description %}
 
 {% api-method-spec %}

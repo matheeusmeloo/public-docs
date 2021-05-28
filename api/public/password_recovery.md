@@ -6,7 +6,7 @@ Recuperar Senha
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Esta rota permite que o usuário recupere sua senha utilizando o código de resposta das rotas anteriores.
+Esta rota permite que o usuário altere a sua senha com o token e prefixo retornados anteriormente durante a solicitação.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -37,23 +37,38 @@ O seu token para recuperação da senha.
 {% endapi-method-request %}
 
 {% api-method-response %}
-{% api-method-response-example httpCode=200 %}
+{% api-method-response-example httpCode=202 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+Senha alterada com sucesso.
 {% endapi-method-response-example-description %}
 
 ```text
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "Unknown",
+    "status": 202,
+    "detail": {
+        "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+        "title": "Password Recovery",
+        "status": 202,
+        "detail": "Password changed"
+    }
+}
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %}
+{% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-Could not find a cake matching this query.
+Senha ou token inválidos.
 {% endapi-method-response-example-description %}
 
 ```text
-{    "message": "Ain't no cake like that."}
+{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "Bad Request",
+    "status": 400,
+    "detail": "Invalid recovery password pin/token"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
