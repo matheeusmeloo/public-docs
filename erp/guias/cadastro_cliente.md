@@ -12,7 +12,7 @@ Um formulário será aberto, basta preencher as informações referentes ao clie
 
 ## Indicações
 
-Quando o cliente a ser cadastrado for indicado por algum parceiro adicione o parceiro que o indicou no campo **`Parceiro Indicador`**
+Quando o cliente a ser cadastrado for indicado por algum parceiro adicione o parceiro que o indicou no campo **`Parceiro Indicador`**.
 
 ![](../../.gitbook/assets/3_cliente_parceiro.png)
 
