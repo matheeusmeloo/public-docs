@@ -46,13 +46,11 @@ ID gerado dentro do sistema \(Opcional, consulte o administrador\)
 URL de pagamento válida.
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

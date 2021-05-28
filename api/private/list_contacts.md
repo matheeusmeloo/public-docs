@@ -28,7 +28,7 @@ Autenticação modelo \(Bearer {token}\)
 Sucesso ao listar contatos
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "_links": {
         "self": {
@@ -48,13 +48,11 @@ Sucesso ao listar contatos
 Acesso não autorizado.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

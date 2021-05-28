@@ -36,7 +36,7 @@ O email da conta que deseja recuperar a senha.
 Sucesso ao solicitar troca de senha.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "pinPrefix": "PREFIXO DE PIN",
     "token": "TOKEN PARA RECUPERAÇÃO DE SENHA",
@@ -53,7 +53,7 @@ Sucesso ao solicitar troca de senha.
 Erro ao solicitar troca de senha \(Requisição incorreta ou email inválido\)
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "trace": [
         {
@@ -79,6 +79,4 @@ Erro ao solicitar troca de senha \(Requisição incorreta ou email inválido\)
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

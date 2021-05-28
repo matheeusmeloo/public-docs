@@ -23,7 +23,7 @@ Query selecionada para consulta, neste caso queremos consultar os dados "data".
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="p" type="string" required=true %}
-Não é necessário ser preenchido, porém precisa   
+Não é necessário ser preenchido, porém precisa  
 estar presente na requisição.
 {% endapi-method-parameter %}
 
@@ -39,7 +39,7 @@ Grupo de entidades sobre o qual a busca será feita, neste caso "company".
 Dados da empresa retornados com sucesso.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "name": "Gestão Online",
     "nameLaw": "Gestao Online e Solucoes em Software LTDA",
@@ -70,6 +70,4 @@ Dados da empresa retornados com sucesso.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

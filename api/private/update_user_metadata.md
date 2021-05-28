@@ -48,7 +48,7 @@ Token de acesso para atualizar informações do usuário
 Alteração realizada com sucesso.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "dataValue": "My new value",
     "_links": {
@@ -65,13 +65,11 @@ Alteração realizada com sucesso.
 Erro ao validar access token.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

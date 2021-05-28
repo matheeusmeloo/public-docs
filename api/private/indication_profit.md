@@ -28,7 +28,7 @@ Access Token modelo "Bearer {token}"
 Sucesso ao listar ganhos por indicação
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "_links": {
         "self": {
@@ -48,13 +48,11 @@ Sucesso ao listar ganhos por indicação
 Access Token Inválido
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

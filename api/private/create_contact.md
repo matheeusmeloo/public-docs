@@ -4,7 +4,7 @@ description: >-
   bancárias.
 ---
 
-# Criar Contato
+# Criar Contato \(Dados Bancários\)
 
 {% api-method method="post" host="https://api.gestao.plus" path="/user-contact" %}
 {% api-method-summary %}
@@ -72,7 +72,7 @@ Nome
 Sucesso ao criar contato.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "name": "GESTAO ONLINE E SOLUCOES EM SOFTWARE LTDA",
     "document": "123123123",
@@ -101,13 +101,11 @@ Sucesso ao criar contato.
 Token de acesso inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

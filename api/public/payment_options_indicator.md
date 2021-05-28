@@ -39,7 +39,7 @@ A consulta "query" a ser realizada sobre os pedidos, neste caso iremos utilizar 
 Sucesso ao listar as formas de recebimento do indicador.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "negotiationTypes": [
         {

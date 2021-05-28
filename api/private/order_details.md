@@ -34,7 +34,7 @@ Access token no modelo "Bearer {token}"
 Sucesso ao listar os detalhes de um pedido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "data": {
         "id": 430,
@@ -115,7 +115,7 @@ Sucesso ao listar os detalhes de um pedido.
 Você não pode ver os detalhes do pedido de outra pessoa além do acesso provido pelo seu Token.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -127,6 +127,4 @@ Você não pode ver os detalhes do pedido de outra pessoa além do acesso provid
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

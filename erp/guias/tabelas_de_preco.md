@@ -18,7 +18,7 @@ Um formulário será aberto solicitando as informações da tabela, escolha o se
 * Tabela de Venda Online: Utilizada para precificar os itens do ecommerce da unidade.
 * Tabela de Comissão: Esse tipo de tabela é utilizada para o modelo de comissão, em que após a venda feita no **cartão** ou **boleto** a Matriz/Sede recebe o dinheiro e repassa a comissão \(determinada pela tabela\) para a Unidade.
 * Tabela de Custo: Tabela usada no modelo custo, em que após a venda feita no **dinheiro** a unidade recebe o pagamento e repassa o custo do produto \(determinado pela tabela\) para a Matriz/Sede ficando com a diferenca.
-* Tabela de Comissão Indicador: Essa tabela será usada para determinar o quanto um [parceiro indicador](../../.gitbook/assets/cadastro_parceiro.md) ganhará sobre cada venda feita para um cliente indicado por ele. Após a criação da tabela, para utilizá-la, adicione-a durante o cadastro do parceiro.
+* Tabela de Comissão Indicador: Essa tabela será usada para determinar o quanto um [parceiro indicador](https://github.com/Gestao-Online/public-docs/tree/acb2954355d3608fa2a0b29dfacf54ad6b8231e2/.gitbook/assets/cadastro_parceiro.md) ganhará sobre cada venda feita para um cliente indicado por ele. Após a criação da tabela, para utilizá-la, adicione-a durante o cadastro do parceiro.
 
 ## Tabelas com Origem/Herança
 

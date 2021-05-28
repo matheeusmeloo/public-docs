@@ -28,7 +28,7 @@ Lista contendo objetos com ID e quantidade de cada produto comprado.
 
 {% api-method-parameter name="cardData" type="string" required=true %}
 Informações do cartão de crédito, um objeto  
-contendo, holderName \(bandeira do cartão\),   
+contendo, holderName \(bandeira do cartão\),  
 expirationMonth \(mês de expiração\), expirationYear \(ano de expiração\), securityCode \(código de segurança\), cardNumber \(número do cartão\).
 {% endapi-method-parameter %}
 
@@ -52,7 +52,7 @@ Identificador do cliente
 Sucesso ao criar pedido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -62,7 +62,7 @@ Sucesso ao criar pedido.
 Requisição inválida.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
@@ -74,6 +74,4 @@ Requisição inválida.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

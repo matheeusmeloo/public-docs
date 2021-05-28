@@ -32,5 +32,5 @@ Caso os itens vendidos pela sua empresa possuam estoque, será necessário imple
 
 ## Controle de Descontos
 
-Caso você queira definir um perfil de desconto para cada vendedor ou solicitar a liberação de descontos verifique nosso guia para vendedores com descontos clicando [aqui](../../.gitbook/assets/vendedor.md)
+Caso você queira definir um perfil de desconto para cada vendedor ou solicitar a liberação de descontos verifique nosso guia para vendedores com descontos clicando [aqui](https://github.com/Gestao-Online/public-docs/tree/acb2954355d3608fa2a0b29dfacf54ad6b8231e2/.gitbook/assets/vendedor.md)
 

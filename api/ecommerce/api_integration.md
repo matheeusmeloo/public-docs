@@ -54,7 +54,7 @@ URL do ERP Gestão Online
 Sucesso ao requisitar url do checkout.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "status": "success",
     "redirectTo":
@@ -76,7 +76,7 @@ Sucesso ao requisitar url do checkout.
 Corpo da requisição inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "status": "error",
     "message": "An error occurred, the 'url' parameter is invalid"
@@ -86,6 +86,4 @@ Corpo da requisição inválido.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

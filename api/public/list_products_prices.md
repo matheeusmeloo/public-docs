@@ -38,7 +38,7 @@ Grupo de entidades sobre o qual a busca será feita, neste caso "company".
 Sucesso ao listar informações de produtos e preços.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "prices": [
         {
@@ -89,7 +89,7 @@ Sucesso ao listar informações de produtos e preços.
 Token de acesso inválido
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -101,6 +101,4 @@ Token de acesso inválido
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

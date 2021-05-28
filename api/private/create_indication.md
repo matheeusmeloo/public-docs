@@ -50,7 +50,7 @@ Nome do indicado
 Sucesso ao criar indicação.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "name": "GESTAO ONLINE E SOLUCOES EM SOFTWARE LTDA",
     "document": "123123123112",
@@ -71,7 +71,7 @@ Sucesso ao criar indicação.
 O usuário que deseja indicar já foi indicado por outra pessoa.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
@@ -83,6 +83,4 @@ O usuário que deseja indicar já foi indicado por outra pessoa.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

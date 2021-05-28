@@ -42,7 +42,7 @@ eq
 Sucesso ao listar informações do usuário.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "_links": {
         "self": {
@@ -90,13 +90,11 @@ Sucesso ao listar informações do usuário.
 Token de acesso inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

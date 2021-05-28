@@ -28,7 +28,7 @@ Access Token no modelo "Bearer {Token}"
 Sucesso ao listar indicações
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "_links": {
         "self": {
@@ -75,13 +75,11 @@ Sucesso ao listar indicações
 Access Token inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

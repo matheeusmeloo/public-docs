@@ -4,7 +4,7 @@ Com o Gestão Online é possível definir o comportamento de cada movimentação
 
 Os tipos de movimentação podem ser usados para:
 
- _Definir o comportamento das entradas no **Financeiro**._  Controlar as mudanças feitas por cada venda no sistema. \_ Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
+_Definir o comportamento das entradas no **Financeiro**._ Controlar as mudanças feitas por cada venda no sistema. \_ Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
 
 Através dos tipos de movimentação você poderá definir se uma venda irá:
 
@@ -37,7 +37,7 @@ Cada uma dessas opções irá determinar se alguma ação deve ser realizada ou 
 
 * **Atualizar Estoque**:
 
-  Permite que a venda altere a quantidade de itens no estoque. 
+  Permite que a venda altere a quantidade de itens no estoque.
 
 * **Atualizar Pré Pago**
 

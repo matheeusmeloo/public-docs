@@ -33,7 +33,7 @@ A consulta "query" a ser realizada sobre os pedidos, neste caso iremos utilizar 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="p" type="boolean" required=true %}
-A unidade da qual iremos filtrar os tipos de   
+A unidade da qual iremos filtrar os tipos de  
 negociação utilizados, aqui utilizamos "u4\_goiere"
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
@@ -45,7 +45,7 @@ negociação utilizados, aqui utilizamos "u4\_goiere"
 Sucesso ao listar as informações da unidade.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "negotiationTypes": [
         {
@@ -84,6 +84,4 @@ Sucesso ao listar as informações da unidade.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

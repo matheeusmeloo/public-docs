@@ -40,7 +40,7 @@ Preencha o valor do atributo correspondente ao contato aqui.
 Dados do contato alterados com sucesso.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "phone": "62123",
     "_links": {
@@ -57,7 +57,7 @@ Dados do contato alterados com sucesso.
 Sem permissão para alterar o contato.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -69,6 +69,4 @@ Sem permissão para alterar o contato.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

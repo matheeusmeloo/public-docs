@@ -1,2 +1,2 @@
-# Privado
+# Privado \(Autenticado\)
 

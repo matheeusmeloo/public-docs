@@ -34,7 +34,7 @@ Access Token de acesso no formato "Bearer {token}"
 Sucesso ao remover usuário
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -44,7 +44,7 @@ Sucesso ao remover usuário
 Proibido deletar indicação \(escopo do indicador\)
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -56,6 +56,4 @@ Proibido deletar indicação \(escopo do indicador\)
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

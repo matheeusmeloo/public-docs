@@ -46,7 +46,7 @@ Identificador do cliente
 Cake successfully retrieved.
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -56,7 +56,7 @@ Cake successfully retrieved.
 Requisição inválida
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
@@ -68,6 +68,4 @@ Requisição inválida
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
