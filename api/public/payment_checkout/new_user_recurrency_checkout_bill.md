@@ -79,5 +79,31 @@ Token de acesso inválido.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+### Exemplo do Corpo da Requisição:
 
+```text
+{
+    "negotiationType": "8",
+    "type": "R", // ESTE ATRIBUTO DETERMINA O PEDIDO COMO RECORRENCIA
+    "userData": {
+        "document": "123123123",
+        "name": "GERADO",
+        "email": "gestao@live.com",
+        "cellphone": "(62) 123123-8359",
+        "zipCode": "74230-130",
+        "address": "Avenida T 14",
+        "number": "1111",
+        "neighborhood": "Setor Teste",
+        "addressDetail": "Apt 123123",
+        "city": "Goiânia",
+        "state": "GO"
+    },
+    "items": [
+        {
+            "id": "83",
+            "quantity": 1
+        }
+    ]
+}
+```
 

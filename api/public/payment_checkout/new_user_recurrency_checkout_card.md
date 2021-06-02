@@ -72,7 +72,7 @@ Token de acesso inválido.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-#### Exemplo de corpo da requisição
+### Exemplo de corpo da requisição:
 
 ```text
 {
@@ -81,9 +81,9 @@ Token de acesso inválido.
     "userData": {
         "document": "123123123",
         "name": "GERADO",
-        "email": "gestao@live.com",
+        "email": "kallebe123123@gmail.com",
         "cellphone": "(62) 123123-8359",
-        "zipCode": "74230-130",
+        "zipCode": "123123-232",
         "address": "Avenida T 14",
         "number": "1111",
         "neighborhood": "Setor Teste",

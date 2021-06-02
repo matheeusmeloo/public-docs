@@ -45,11 +45,22 @@ ID da forma de pagamento escolhida \(boleto, cartão...\)
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Sucesso ao solicitar acesso ao checkout.
+Sucesso ao confirmar pedido no boleto.
 {% endapi-method-response-example-description %}
 
 ```
-
+{
+   "code":"",
+   "data":{
+      "id":975, // ID DA VENDA
+      "orderCode":"000097XYZ8" // CODIGO DA VENDA
+   },
+   "publicToken":"TOKEN PUBLICO DO PEDIDO",
+   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+   "title":"ok",
+   "status":200,
+   "detail":"Order created"
+}
 ```
 {% endapi-method-response-example %}
 
@@ -71,5 +82,31 @@ Token de acesso inválido.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+### Exemplo de Corpo da Requisição:
 
+```text
+{
+    "negotiationType": "20",
+    "type": "V",
+    "userData": {
+        "document": "123123123",
+        "name": "Kallebe Gomes",
+        "email": "kallebegomes18@gmail.com",
+        "cellphone": "(62) 00000-0000",
+        "zipCode": "12312-130",
+        "address": "Avenida T 2",
+        "number": "322",
+        "neighborhood": "Setor A",
+        "complement": "Apt 123123",
+        "city": "Goiânia",
+        "state": "GO"
+    },
+    "items": [
+        {
+            "id": "9",
+            "quantity": 1
+        }
+    ]
+}
+```
 
