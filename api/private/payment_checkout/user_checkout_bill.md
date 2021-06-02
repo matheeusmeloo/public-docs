@@ -95,12 +95,6 @@ Requisição inválida
          "quantity":1,
          "price":100,
          "description":"KIT PJ A3 - TOKEN - 2 ANOS",
-         "image":{
-            "name":"bradesco.png",
-            "description":"bradesco.png",
-            "href":"https://dev.gestao.plus/file?q={data}=="
-         },
-         "rand":"12323123"
       }
    ],
    "userData":{
