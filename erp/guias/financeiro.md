@@ -21,7 +21,7 @@ Os seguintes campos precisam ser preenchidos.
 * O `Tipo` da conta se será uma receita ou despesa. \*
 * O cliente relacionado a essa movimentação.
 * A empresa responsável.
-* Unidade em que foi realizada essa entrada.
+* Unidade em que foi realizada essa entrada
 * O tipo de movimentação utilizado.
 * Tipo de negociação \(forma de pagamento\)
 * Conta \(conta bancária\)
