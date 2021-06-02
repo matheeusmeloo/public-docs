@@ -7,7 +7,7 @@ description: >-
 
 # Checkout Recorrência Novo Usuário \(Cartão de Crédito\)
 
-{% api-method method="post" host="https://api.gestao.plus" path="/order?t={token}" %}
+{% api-method method="post" host="https://api.gestao.plus" path="/order?t={token\_de\_acesso\_do\_cpf}" %}
 {% api-method-summary %}
 Checkout de recorrência para novo usuário pagando no cartão
 {% endapi-method-summary %}
@@ -51,16 +51,16 @@ Sucesso ao solicitar checkout.
 
 ```
 {
-   "code":"",
-   "data":{
-      "id":978,
-      "orderCode":"0000978172" // CÓDIGO DO PEDIDO
-   },
-   "publicToken":"TOKEN PÚBLICO DA VENDA",
-   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
-   "title":"ok",
-   "status":200,
-   "detail":"Order created"
+    "code": "",
+    "data": {
+        "id": 118,
+        "orderCode": "0000118018"
+    },
+    "publicToken": "TOKEN DO PEDIDO",
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "ok",
+    "status": 200,
+    "detail": "Order created"
 }
 ```
 {% endapi-method-response-example %}
