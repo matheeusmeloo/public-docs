@@ -51,9 +51,9 @@ Sucesso ao gerar pedido.
    "code":"",
    "data": {
       "id":954,
-      "orderCode": "0000954179"
+      "orderCode": "0000954179" // NÚMERO DO PEDIDO
    },
-   "publicToken":"OOTU0_MTYyMjIyMTMzMzMwMTU_qOJpy605WkWxYaAhEhF76w",
+   "publicToken":"TOKEN PÚBLICO",
    "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
    "title":"ok",
    "status":200,
@@ -79,4 +79,46 @@ Requisição inválida
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+Exemplo do corpo da requisição:
+
+```text
+{
+   "uri": "",
+   "type": "V",
+   "negotiationType":20,
+   "items":[
+      {
+         "id":10,
+         "sku":"370",
+         "p":"",
+         "quantity":1,
+         "price":100,
+         "description":"KIT PJ A3 - TOKEN - 2 ANOS",
+         "image":{
+            "name":"bradesco.png",
+            "description":"bradesco.png",
+            "href":"https://dev.gestao.plus/file?q={data}=="
+         },
+         "rand":"12323123"
+      }
+   ],
+   "userData":{
+      "document":"231.231.231-23",
+      "name":"Kallebe Gomes",
+      "email":"kallebe187392@gmail.com",
+      "cellphone":"(62) 00000-0000",
+      "zipCode":"74000-000",
+      "address":"My new address",
+      "number":0,
+      "neighborhood":"Residencial Alphaville Flamboyant",
+      "addressDetail":"...",
+      "city":"Goiânia",
+      "state":"GO",
+      "password":null,
+      "phone":"",
+      "username":"8748923323"
+   }
+}
+```
 

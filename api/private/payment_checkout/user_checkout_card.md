@@ -53,7 +53,18 @@ Sucesso ao criar pedido.
 {% endapi-method-response-example-description %}
 
 ```text
-
+{
+   "code":"",
+   "data":{
+      "id":968,
+      "orderCode":"0000968179" // Numero do pedido
+   },
+   "publicToken":"TOKEN PÚBLICO",
+   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+   "title":"ok",
+   "status":200,
+   "detail":"Order created"
+}
 ```
 {% endapi-method-response-example %}
 
@@ -74,4 +85,53 @@ Requisição inválida.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+Exemplo do corpo da requisição:
+
+```text
+{
+   "uri":"",
+   "type":"V",
+   "negotiationType":21,
+   "items":[
+      {
+         "id":9,
+         "sku":"10",
+         "p":"",
+         "quantity":1,
+         "price":235,
+         "description":"CERTIFICADO PJ A1",
+         "image":{
+            "name":"cert_soluti_a1_4_7.png",
+            "description":"cert_soluti_a1_4_7.png",
+            "href":"https://dev.gestao.plus/file?q={imagedata}=="
+         },
+         "rand":"3123123123"
+      }
+   ],
+   "userData":{
+      "document":"283823819230",
+      "name":"Kallebe Gomes Bezerra",
+      "email":"kallebe3123123@gmail.com",
+      "cellphone":"(62) 9323-2312",
+      "zipCode":"74000-000",
+      "address":"My new address",
+      "number":0,
+      "neighborhood":"Residencial Alphaville Flamboyant",
+      "addressDetail":"...",
+      "city":"Goiânia",
+      "state":"GO",
+      "password":null,
+      "phone":"",
+      "username":"3232323213"
+   },
+   "cardData":{
+      "holderName":"Kallebe Gomes",
+      "expirationMonth":"5",
+      "expirationYear":"2021",
+      "securityCode":"123",
+      "cardNumber":"4539003370725497"
+   }
+}
+```
 

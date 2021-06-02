@@ -75,6 +75,7 @@
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
 * [API](api/README.md)
+  * [Códigos de Erro](api/codigos_de_erro.md)
   * [Ecommerce \(INTEGRAÇÃO\)](api/ecommerce/README.md)
     * [Integração Manual](api/ecommerce/manual_integracao.md)
     * [Integração API](api/ecommerce/api_integration.md)
