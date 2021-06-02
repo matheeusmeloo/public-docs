@@ -38,7 +38,7 @@ cada um com o seu id e quantidade.
 
 {% api-method-parameter name="userData" type="string" required=true %}
 Objeto com os dados do usuário, seu email, nome, endereço...
-{% endapi-method-parameter %}
+{% endapi-method-parameter %} 
 
 {% api-method-parameter name="type" type="string" required=true %}
 Tipo de pedido, neste caso "R" de recorrência.
