@@ -87,11 +87,10 @@ Token de acesso inválido.
 
 ```text
 {
-    "uri": "u4_contador-indicador",
-    "negotiationType": "23",
-    "type": "V",
+    "negotiationType": "12",
+    "type": "R",
     "userData": {
-        "document": "812.939.690-44",
+        "document": "90166704083",
         "name": "Paulo Filipe Macedo dos Santos",
         "email": "paulo.filipe@live.com",
         "cellphone": "(62) 99183-8359",
@@ -99,20 +98,20 @@ Token de acesso inválido.
         "address": "Avenida T 14",
         "number": "1529",
         "neighborhood": "Setor Bueno",
-        "complement": "Apt 102a",
+        "addressDetail": "Apt 102a",
         "city": "Goiânia",
         "state": "GO"
     },
     "cardData": {
         "holderName":"VISA MAGIC",
         "expirationMonth":"05",
-        "expirationYear":"2021",
+        "expirationYear":"2023",
         "securityCode":"123",
-        "cardNumber":"4929710426637678"
+        "cardNumber":"4539003370725497"
     },
     "items": [
         {
-            "id": "9",
+            "id": "83",
             "quantity": 1
         }
     ]
