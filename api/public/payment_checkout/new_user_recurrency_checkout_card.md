@@ -87,20 +87,27 @@ Token de acesso inválido.
 
 ```text
 {
-    "negotiationType": "8",
+    "negotiationType": "12",
     "type": "R",
     "userData": {
-        "document": "123123123",
-        "name": "GERADO",
-        "email": "kallebe123123@gmail.com",
-        "cellphone": "(62) 123123-8359",
-        "zipCode": "123123-232",
+        "document": "90166704083",
+        "name": "Paulo Filipe Macedo dos Santos",
+        "email": "paulo.filipe@live.com",
+        "cellphone": "(62) 99183-8359",
+        "zipCode": "74230-130",
         "address": "Avenida T 14",
-        "number": "1111",
-        "neighborhood": "Setor Teste",
-        "addressDetail": "Apt 123123",
+        "number": "1529",
+        "neighborhood": "Setor Bueno",
+        "addressDetail": "Apt 102a",
         "city": "Goiânia",
         "state": "GO"
+    },
+    "cardData": {
+        "holderName":"VISA MAGIC",
+        "expirationMonth":"05",
+        "expirationYear":"2023",
+        "securityCode":"123",
+        "cardNumber":"4539003370725497"
     },
     "items": [
         {
