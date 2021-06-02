@@ -57,7 +57,18 @@ Sucesso ao carregar checkout.
 {% endapi-method-response-example-description %}
 
 ```
-
+{
+   "code":"",
+   "data":{
+      "id":975, // ID DA VENDA
+      "orderCode":"000097XYZ8" // CODIGO DA VENDA
+   },
+   "publicToken":"TOKEN PUBLICO DO PEDIDO",
+   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+   "title":"ok",
+   "status":200,
+   "detail":"Order created"
+}
 ```
 {% endapi-method-response-example %}
 
