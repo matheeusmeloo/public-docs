@@ -13,7 +13,7 @@ Checkout de recorrência para novo usuário pagando no cartão
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Esta rota permite que você acesse o checkout como um novo usuário pagando no cartão de crédito.
+Esta rota permite que você acesse o checkout como um novo usuário pagando no cartão de crédito. 
 {% endapi-method-description %}
 
 {% api-method-spec %}
