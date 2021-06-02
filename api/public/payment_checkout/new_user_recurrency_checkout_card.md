@@ -88,7 +88,7 @@ Token de acesso inválido.
 ```text
 {
     "negotiationType": "12",
-    "type": "R", 
+    "type": "R",
     "userData": {
         "document": "90166704083",
         "name": "Paulo Filipe Macedo dos Santos",
