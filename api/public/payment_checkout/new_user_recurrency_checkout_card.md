@@ -100,7 +100,7 @@ Token de acesso inválido.
         "neighborhood": "Setor Bueno",
         "addressDetail": "Apt 102a",
         "city": "Goiânia",
-        "state": "GO"
+        "state": "GO" 
     },
     "cardData": {
         "holderName":"VISA MAGIC",
