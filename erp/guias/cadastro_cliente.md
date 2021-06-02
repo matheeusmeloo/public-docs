@@ -2,11 +2,11 @@
 
 Antes de realizar uma venda, cadastre um cliente, para isso abra a página **Cliente/Parceiro** através da barra de pesquisa.
 
-![](../../.gitbook/assets/1_cliente.png)
+![](../../.gitbook/assets/1_cliente_parceiro.png)
 
 Para adicionar adicioná-lo clique em _Adicionar Item_ no menu superior direito
 
-![](../../.gitbook/assets/2_cliente.png)
+![](../../.gitbook/assets/2_cliente_parceiro.png)
 
 Um formulário será aberto, basta preencher as informações referentes ao cliente.
 
