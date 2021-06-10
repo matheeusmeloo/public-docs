@@ -4,7 +4,7 @@
 
 **Mensagens de erro**
 
-Quando uma requisição de API falha, a Zoop retornará um código de resposta HTTP 4xx ou 5xx que identifica genericamente a falha, bem como uma resposta JSON que fornece informações mais específicas sobre o erro \(ou os erros\) que causou a falha.
+Quando uma requisição de API falha, é retornado um código de resposta HTTP 4xx ou 5xx que identifica genericamente a falha, bem como uma resposta JSON que fornece informações mais específicas sobre o erro \(ou os erros\) que causou a falha.
 
 A resposta conterá:
 
@@ -15,7 +15,7 @@ A resposta conterá:
 
 | Status Code | Tipo | Categoria | Descrição | Código de erro Bandeira |
 | :--- | :--- | :--- | :--- | :--- |
-| 500 | processing\_error | server\_api\_error | Ocorreu um erro de processamento na Zoop. Se você receber esta mensagem, entre em contato com api@pagzoop.com |  |
+| 500 | processing\_error | server\_api\_error | Ocorreu um erro de processamento. |  |
 | 409 | invalid\_request\_error | duplicate\_taxpayer\_id | Customer with this taxpayer\_id already exists. |  |
 | 408 | invalid\_request\_error | service\_request\_timeout | Credit card process is temporarily unavailable at the specified location. |  |
 | 404 | invalid\_request\_error | endpoint\_not\_found | The requested URL was not found on the server |  |
