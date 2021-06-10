@@ -43,3 +43,134 @@ A resposta conterá:
 | 402 | card\_error | invalid\_pin\_code | Transaction denied. Invalid PIN code. | 55 |
 | 402 | card\_error | authorization\_refused | Transação ilegal | 58 |
 
+## Retorno da adquirente (CNP)
+
+
+<div class="rdmd-table-inner">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: left;">Código de retorno</th>
+            <th style="text-align: left;">Mensagem de retorno</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: left;">0</td>
+            <td style="text-align: left;">Success.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">101</td>
+            <td style="text-align: left;">Unauthorized. Problems on the card, contact the issuer.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">102</td>
+            <td style="text-align: left;">Unauthorized. Check the situation of the store with the issuer.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">103</td>
+            <td style="text-align: left;">Unauthorized. Please try again.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">104</td>
+            <td style="text-align: left;">Unauthorized. Please try again.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">105</td>
+            <td style="text-align: left;">Unauthorized. Restricted card.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">106</td>
+            <td style="text-align: left;">Error in issuer processing. Please try again.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">107</td>
+            <td style="text-align: left;">Unauthorized. Please try again.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">108</td>
+            <td style="text-align: left;">Unauthorized. Value not allowed for this type of card.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">109</td>
+            <td style="text-align: left;">Unauthorized. Nonexistent card.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">110</td>
+            <td style="text-align: left;">Unauthorized. Transaction type not allowed for this card.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">111</td>
+            <td style="text-align: left;">Unauthorized. Insufficient funds.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">112</td>
+            <td style="text-align: left;">Unauthorized. Expiry date expired.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">113</td>
+            <td style="text-align: left;">Unauthorized. Identified moderate risk by the issuer.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">114</td>
+            <td style="text-align: left;">Unauthorized. The card does not belong to the payment network.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">115</td>
+            <td style="text-align: left;">Unauthorized. Exceeded the limit of transactions allowed in the period.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">116</td>
+            <td style="text-align: left;">Unauthorized. Please contact the Card Issuer.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">117</td>
+            <td style="text-align: left;">Transaction not found.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">118</td>
+            <td style="text-align: left;">Unauthorized. Card locked.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">119</td>
+            <td style="text-align: left;">Unauthorized. Invalid security code.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">120</td>
+            <td style="text-align: left;">Zero dollar transaction approved successfully.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">121</td>
+            <td style="text-align: left;">Error processing. Please try again.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">122</td>
+            <td style="text-align: left;">Transaction previously sent.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">123</td>
+            <td style="text-align: left;">Unauthorized. Bearer requested the end of the recurrences in the issuer.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">124</td>
+            <td style="text-align: left;">Unauthorized. Contact Rede.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">170</td>
+            <td style="text-align: left;">Zero dollar transaction not allowed for this card.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">172</td>
+            <td style="text-align: left;">transaction already captured.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">174</td>
+            <td style="text-align: left;">Zero dollar transaction success.</td>
+         </tr>
+         <tr>
+            <td style="text-align: left;">175</td>
+            <td style="text-align: left;">Zero dollar transaction denied.</td>
+         </tr>
+      </tbody>
+   </table>
+</div>
