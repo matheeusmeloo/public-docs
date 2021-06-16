@@ -4,7 +4,7 @@ description: A URL é montada em forma de array com parâmetros determinados.
 
 # Integração API
 
-{% api-method method="get" host="https://tools.gestao.plus" path="/goto-checkout.php" %}
+{% api-method method="post" host="https://tools.gestao.plus" path="/goto-checkout.php" %}
 {% api-method-summary %}
 URL Checkout
 {% endapi-method-summary %}
