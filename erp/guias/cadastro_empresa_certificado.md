@@ -6,6 +6,6 @@ Para cadastrar cerficado digital para a emissão de notas fiscais, acesse a tela
 
 No campo Anexo certificado digital clique em Escolher Arquivo, e selecione o certificado.
 
-![](../../.gitbook/assets/manuais_de_uso/empresas/tela_empresa.png)
+![](../../.gitbook/assets/manuais_de_uso/empresas/cadastro_certificado.png)
 
 Depois que o certificado foi adicionado digite a senha.
