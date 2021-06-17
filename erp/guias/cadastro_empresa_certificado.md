@@ -1,5 +1,11 @@
 # Cadastro de Certificado Digital na tela empresa
 
-Antes de realizar uma venda, cadastre um cliente, para isso abra a página **Cliente/Parceiro** através da barra de pesquisa.
+Para cadastrar cerficado digital para a emissão de notas fiscais, acesse a tela **Empresa** e clique no botão editar ou clique com o botão direito do mouse sobre a empresa que vai ser adicionado o certificado.
 
-![](../../.gitbook/assets/1_cliente_parceiro.png)
+![](../../.gitbook/assets/manuais_de_uso/empresas/tela_empresa.png)
+
+No campo Anexo certificado digital clique em Escolher Arquivo, e selecione o certificado.
+
+![](../../.gitbook/assets/manuais_de_uso/empresas/tela_empresa.png)
+
+Depois que o certificado foi adicionado digite a senha.
