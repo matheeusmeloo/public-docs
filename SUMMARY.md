@@ -71,6 +71,8 @@
     * [Financeiro](erp/guias/financeiro.md)
     * [Sistema Pré/Pós pago](erp/guias/pre-pago.md)
     * [Geração de Relatórios](erp/guias/geracao_de_relatorios.md)
+    * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md)
+    
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
