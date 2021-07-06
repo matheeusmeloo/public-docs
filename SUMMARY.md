@@ -5,7 +5,7 @@
   * [🚀 Iniciando](erp/implantacao/README.md)
     * [Primeiros Passos](erp/implantacao/0_primeiros_passos.md)
     * [Emissão de NFS-e e NFE](erp/implantacao/emissao-de-nfse-e-nfe.md)
-  * [📦 Módulos e Paginas](erp/modulos_e_paginas/README.md)
+  * [📦 Módulos e Páginas](erp/modulos_e_paginas/README.md)
     * [Dashboard](erp/modulos_e_paginas/dashboard/README.md)
       * [Dashboard Agendamento](erp/modulos_e_paginas/dashboard/dashboard_agendamento.md)
       * [Dashboard Parceiro Indicador](erp/modulos_e_paginas/dashboard/dashboard_parceiro_indicador.md)
