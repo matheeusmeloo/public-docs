@@ -12,13 +12,18 @@ Um formulário será aberto solicitando as informações da tabela, escolha o se
 
 ## Tipos de Tabelas de Preço
 
-![](../../.gitbook/assets/2_tabela_de_preco.png)
+![](../../.gitbook/assets/4_tabela_de_preco_2.png)
 
-* Tabela de Venda: Esse tipo de tabela é utilizado para determinar o preço final dos itens em uma determinada unidade, ou seja o preço de venda para o cliente.
+* Tabela de Venda: Esse tipo de tabela é utilizada para determinar o preço final dos itens em uma unidade, ou seja o preço de venda para o cliente.
 * Tabela de Venda Online: Utilizada para precificar os itens do ecommerce da unidade.
 * Tabela de Comissão: Esse tipo de tabela é utilizada para o modelo de comissão, em que após a venda feita no **cartão** ou **boleto** a Matriz/Sede recebe o dinheiro e repassa a comissão \(determinada pela tabela\) para a Unidade.
 * Tabela de Custo: Tabela usada no modelo custo, em que após a venda feita no **dinheiro** a unidade recebe o pagamento e repassa o custo do produto \(determinado pela tabela\) para a Matriz/Sede ficando com a diferenca.
 * Tabela de Comissão Indicador: Essa tabela será usada para determinar o quanto um [parceiro indicador](https://github.com/Gestao-Online/public-docs/tree/acb2954355d3608fa2a0b29dfacf54ad6b8231e2/.gitbook/assets/cadastro_parceiro.md) ganhará sobre cada venda feita para um cliente indicado por ele. Após a criação da tabela, para utilizá-la, adicione-a durante o cadastro do parceiro.
+
+**Observação Importante:** A partir das versões mais recentes também é possível selecionar o *Modo de configuração* de uma tabela, muito útil para quando estiver cadastrando tabelas de preço que serão utilizadas para comissionar seus parceiros indicadores, dentre as opções temos:
+  - **Valor fixo por produto/serviço.** O valor para cada produto será cadastrado diretamente na tabela.
+  - **Valor fixo e/ou percentual por produto/serviço de outra tabela.** Habilita a seção Origem/Herança.
+  - **Valor percentual da venda/movimentação.** Determine os grupos de produtos dos quais será retirado o percentual definido durante a venda. Você pode utilizar esta opção quando estiver cadastrando uma tabela para comissões e deseja que o parceiro receba uma porcentagem da venda final.
 
 ## Tabelas com Origem/Herança
 
