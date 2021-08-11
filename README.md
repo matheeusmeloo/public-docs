@@ -1,6 +1,6 @@
 # Documentação ERP Gestão Online
 
-Essa documentção tem como objetivo instruir os usuários e desenvolvedores sobre o funcionamento do sistema em todos os seus aspectos.
+Essa documentação tem como objetivo instruir os usuários e desenvolvedores sobre o funcionamento do sistema em todos os seus aspectos.
 
 ## Oque é o ERP Gestão Online?
 
