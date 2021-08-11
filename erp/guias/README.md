@@ -2,7 +2,7 @@
 
 Nesta seção você encontra o passo a passo necessário para você realizar suas vendas, cadastrar seus usuários e vendedores, gerenciar seus ganhos e controlar seu financeiro.
 
-### Dicas de uso do sistema
+### Dicas de uso
 
 Para melhor operar as páginas e recursos oferecidos pelo Gestão Online, recomendamos a leitura desta seção para elucidar conceitos importantes, como a estrutura das páginas, o cadastro de novos items, seleção por filtro e atalhos.
 
@@ -31,8 +31,40 @@ Para fazer isso é bem simples, de acordo com a página em aberto, haverá duas 
 
 **Exemplo da página de vendas:**
 
-Selecionando o filtro pela coluna.
+Selecionando o filtro pela coluna:
 <img src="../../.gitbook/assets/15_conceitos_filtro_1.png">
 
-Adicionando parâmetros.
-<img src="../../.gitbook/assets/15_conceitos_filtro_2.png">
+Adicionando parâmetros:
+<p style="text-align: center;">
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_filtro_2.png">
+</p>
+
+### Atalhos
+
+Para facilitar o seu dia a dia, o Gestão Online possui uma série de atalhos que você pode utlizar para facilitar as suas operações.
+
+Para editar um item em específico sem precisar clicar sobre o ícone de edição, clique com o botão direito do mouse sobre a linha.
+
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_1.png">
+</p>
+
+Caso precise realizar alguma ação sobre alguma aba, clique com o botão direito do mouse sobre ela. 
+
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_2.png">
+</p>
+
+Para selecionar um determinado número de linhas, segure o botão **Ctrl** e clique sobre as linhas que deseja selecionar.
+
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_3.png">
+</p>
+
+Após selecioná-las, clique com o botão direito do mouse sobre as linhas.
+
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_4.png">
+</p>
+
+Realizar venda para cliente em edição.
+Para abrir o cadastro de uma nova venda com o cliente já preenchido, selecione o ícone de **$** no menu superior direito ao editar o cliente.
+
+<img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_5.png">
+</p>
