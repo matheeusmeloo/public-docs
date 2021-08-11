@@ -44,27 +44,27 @@ Adicionando parâmetros:
 Para facilitar o seu dia a dia, o Gestão Online possui uma série de atalhos que você pode utlizar para facilitar as suas operações.
 
 Para editar um item em específico sem precisar clicar sobre o ícone de edição, clique com o botão direito do mouse sobre a linha.
-
+<p style="text-align: center;">
 <img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_1.png">
 </p>
 
 Caso precise realizar alguma ação sobre alguma aba, clique com o botão direito do mouse sobre ela. 
-
+<p style="text-align: center;">
 <img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_2.png">
 </p>
 
 Para selecionar um determinado número de linhas, segure o botão **Ctrl** e clique sobre as linhas que deseja selecionar.
-
+<p style="text-align: center;">
 <img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_3.png">
 </p>
 
 Após selecioná-las, clique com o botão direito do mouse sobre as linhas.
-
+<p style="text-align: center;">
 <img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_4.png">
 </p>
 
 Realizar venda para cliente em edição.
 Para abrir o cadastro de uma nova venda com o cliente já preenchido, selecione o ícone de **$** no menu superior direito ao editar o cliente.
-
+<p style="text-align: center;">
 <img style="border: 2px solid black;" src="../../.gitbook/assets/15_conceitos_atalho_5.png">
 </p>
