@@ -23,18 +23,18 @@ Os seguintes campos precisam ser preenchidos.
 * A empresa responsável.
 * Unidade em que foi realizada essa entrada
 * O tipo de movimentação utilizado.
-* Tipo de negociação \(forma de pagamento\)
-* Conta \(conta bancária\)
-* Data Negociação \(data de início da fatura\)
+* Tipo de negociação (forma de pagamento)
+* Conta (conta bancária)
+* Data Negociação (data de início da fatura)
 * Data de Vencimento da fatura
-* Valor do desdobramento \(quantia a ser paga ou recebida\)
+* Valor do desdobramento (quantia a ser paga ou recebida)
 
 Os demais campos são opcionais:
 
-* A natureza da conta, categorizando o tipo da receita ou despesa, por exemplo \(despesas com viagem, serviços, receitas administrativas\), este campo é muito útil para a realização do plano de contas de sua empresa, em que os gastos ou receitas ficam divididos por gategorias, lembrando que o plano de contas também é utilizado na elaboração do Orçamento Empresarial.
-* Centro de resultado, este é responsável pela divisão dos setores da empresa \(ADMINISTRATIVO, MARKETING, SÓCIOS, PARCEIROS, COMERCIAL...\), o centro de resultado pode ser definido durante o cadastro do vendedor.
-* Valores de juro e multa
-* Histórico \(observações para conta\)
+- A natureza da conta, categorizando o tipo da receita ou despesa, por exemplo \(despesas com viagem, serviços, receitas administrativas), este campo é muito útil para a realização do plano de contas de sua empresa, em que os gastos ou receitas ficam divididos por gategorias, lembrando que o plano de contas também é utilizado na elaboração do Orçamento Empresarial.
+- Centro de resultado, este é responsável pela divisão dos setores da empresa (ADMINISTRATIVO, MARKETING, SÓCIOS, PARCEIROS, COMERCIAL...), o centro de resultado pode ser definido durante o cadastro do vendedor.
+- Valores de juro e multa
+- Histórico (observações para conta)
 
 ## Controle de contas
 
@@ -64,7 +64,14 @@ Um alerta será mostrado, clique em 'ok' e pronto, sua conta foi estornada, o va
 
 ## Como gerar relatórios sobre o financeiro?
 
-Primeiramente, selecione o tipo de relatório que deseja gerar, **contas a receber**, **contas a pagar** ou **fluxo de caixa**?
+Primeiramente, selecione o tipo de relatório que deseja gerar, dentre eles temos:
+- **contas a receber**
+- **contas a pagar**
+- **fluxo de caixa**
+- **fluxo de caixa a pagar**
+- **listagem de lançamentos**
+
+**Obs:** Você poderá adicionar mais relatórios em seu sistema através da página **Reports and Widgets Builder**. 
 
 ![](../../.gitbook/assets/8_financeiro.png)
 

@@ -2,6 +2,9 @@
 
 O sistema Gestão Online conta com um módulo específico para a geração e controle de relatórios, com toda a flexibilidade e rapidez que sua empresa precisa.
 
+Para configurar relatórios pesquise pela página **`Widgets and Reports builder`**.
+![](../../.gitbook/assets/3_relatorios.png)
+
 ## Como utilizar relatórios ?
 
 Os casos mais comuns para a geração de relatórios são na página de **Vendas** e **Financeiro**, para gerar um relatório selecione uma das opções do menu superior direito da tela com o ícone de documento.
@@ -16,14 +19,10 @@ Geralmente, quando um relatório está sendo gerado serão necessárias duas dat
 
 ## Como criar relatórios?
 
-Para criar um relatório pesquise pela página **`Widgets and reports`**.
-
-![](../../.gitbook/assets/3_relatorios.png)
-
 Selecione a opção `Adicionar Item`, um formulário será aberto solicitando as informações do widget ou report.
 
 {% hint style="info" %}
-Os relatórios são gerados através de consultas MySQL e templates em XML definidos durante a sua criação. Os templates serão utilizados pelo motor gráfico responsável pela criação do relatório.
+Os relatórios são gerados através de consultas MySQL e templates em XML, HTML ou Json definidos durante a sua criação. Os templates serão utilizados pelo motor gráfico responsável pela criação do relatório.
 {% endhint %}
 
 Para saber mais sobre como os widgets e relatórios funcionam, verifique o nosso manual de configurações clicando [aqui](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/iniciando/modulos/configuracoes/report.md).

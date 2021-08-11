@@ -8,4 +8,4 @@ No campo Anexo certificado digital clique em Escolher Arquivo, e selecione o cer
 
 ![](../../.gitbook/assets/cadastro_certificado.png)
 
-Depois que o certificado foi adicionado digite a senha.
+Depois que o certificado for adicionado digite a senha.
