@@ -2,7 +2,7 @@
 
 Para que a emissão de notas fiscais pelo sistema seja habilitada a primeira coisa que devemos fazer é verificar os dados fiscais da empresa em questão na página **`Empresa`**.
 
-![Parceiro indicador](ERP/assets/implantacoes/1_dados_fiscais.png)
+![Parceiro indicador](../../.gitbook/assets/tela_empresa.png)
 
 ## Processo de Cadastro
 
@@ -14,7 +14,7 @@ Após o preenchimento e validação dos dados, é possível realizar uma venda t
 
 Obs: Por enquanto emitimos somente notas fiscais de serviço \(NFS-e\), portanto as opções `Nfse Ativo` e `Nfse configuração padrão` devem estar ativadas.
 
-![Parceiro indicador](ERP/assets/implantacoes/2_dados_fiscais.png)
+![Parceiro indicador](../../.gitbook/assets/2_dados_fiscais.png)
 
 ## Dados fiscais de um Serviço em Específico
 
@@ -22,5 +22,4 @@ Para alterar os dados fiscais para a geração da nota fiscal para um serviço e
 
 Por padrão os dados fiscais utilizados são os cadastrados na página **`Empresa`**
 
-![Parceiro indicador](ERP/assets/implantacoes/3_dados_fiscais.png)
-
+![Parceiro indicador](../../.gitbook/assets/3_dados_fiscais.png)
