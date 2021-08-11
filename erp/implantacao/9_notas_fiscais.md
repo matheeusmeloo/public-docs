@@ -1,4 +1,4 @@
-# Emissão de NFSe e NFE
+# Emissão de NFSe
 
 Para que a emissão de notas fiscais pelo sistema seja habilitada a primeira coisa que devemos fazer é verificar os dados fiscais da empresa em questão na página **`Empresa`**.
 
