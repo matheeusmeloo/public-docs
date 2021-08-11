@@ -54,6 +54,25 @@ Apartir de agora, um gestor deve liberar a solicitação de desconto para que a 
 
 ![Adicionar item a venda](../../.gitbook/assets/4_vendas.png)
 
+### Status da Venda
+
+Através da página de **vendas**, podemos acompanhar os status de cada item relacionado a movimentação na coluna **Status**, se houve baixa ou não, se está ou não em atendimento, situação da nota fiscal e até mesmo se os itens vendidos foram entregues.
+
+Como podemos ver, esta venda foi confirmada, ainda não houve baixa financeira, não houve geração de nota fiscal e os itens vendidos ainda não foram entregues.
+<p style="text-align: center"><img src="../../.gitbook/assets/10_vendas_status.png"/></p>
+
+<p style="text-align: center">Venda com financeiro baixado.</p>
+<p style="text-align: center"><img src="../../.gitbook/assets/10_vendas_status_2.png"/></p>
+
+<p style="text-align: center">Apenas uma ou algumas parcelas foram pagas (parcialmente baixado)</p>
+<p style="text-align: center"><img src="../../.gitbook/assets/10_vendas_status_3.png"/></p>
+
+<p style="text-align: center">Financeiro baixado, nota fiscal autorizada e itens entregues.</p>
+<p style="text-align: center"><img src="../../.gitbook/assets/10_vendas_status_4.png"/></p>
+
+<p style="text-align: center">Nota fiscal rejeitada.</p>
+<p style="text-align: center"><img src="../../.gitbook/assets/10_vendas_status_5.png"/></p>
+ 
 ### Geração de Boletos
 
 * Clique em `gerar boleto` em seguida `emitir boletos`, o boleto gerado irá para aba `anexos`.
