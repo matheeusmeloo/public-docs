@@ -35,7 +35,11 @@ SKU do produto dessa venda
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="callBackUrl" type="string" required=true %}
-URL de volta para o usuário retornar, se for necessário \(Opcional\)
+URL de volta para o usuário retornar para o carrinho, se for necessário \(Opcional\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="callBackResponseUrl" type="string" required=true %}
+URL de volta para o usuário retornar para resumo de compra após a confirmação do pagamento, se for necessário \(Opcional, a url deve esperar a concatenação do parâmetro de código do pedido\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="p" type="string" required=true %}
@@ -86,4 +90,36 @@ Corpo da requisição inválido.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+
+Exemplo de request:
+```
+curl --location --request POST 'https://tools.gestao.plus/goto-checkout.php' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "url": "https://parceirosoluti.com.br",
+    "p": "i6473-gestao-online",
+    "callBackUrl": "https://gestão.online?q=callbackToProductListSample",
+    "callBackResponseUrl": "https://gestão.online?q=callbackToOrderDetailUsingCode&code=",
+    "sku": 9,
+    "user": {
+        "document": "11111111111",
+        "name": "Nome Exemplo",
+        "email": "teste@teste.com",
+        "cellphone": "62995555555",
+        "zipCode": "74230130",
+        "address": "Apt 123",
+        "number": "1529",
+        "neighborhood": "Setor Bueno",
+        "addressDetail": "Av Xpto",
+        "city": "Goiania",
+        "state": "GO"
+    }
+}'
+```
+
+
+{% hint style="info" %}
+Para consultar as informações utilize o código retornado na url indicada em "callBackResponseUrl", [utilize o endpoint de detalhes do pedido/pagamento](/api/public/order_details_public) para obter os detalhes.
+{% endhint %}
 
