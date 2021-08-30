@@ -26,24 +26,24 @@ application/json
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
-{% api-method-parameter name="user" type="string" required=true %}
-Dados do usuário para o preenchimento automático do formulário \(Opcional\)
+{% api-method-parameter name="user" type="string" required=false %}
+Dados do usuário para o preenchimento automático do formulário
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="sku" type="string" required=true %}
 SKU do produto dessa venda
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="callBackUrl" type="string" required=true %}
-URL de volta para o usuário retornar para o carrinho, se for necessário \(Opcional\)
+{% api-method-parameter name="callBackUrl" type="string" required=false %}
+URL de volta para o usuário retornar para o carrinho, se for necessário
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="callBackResponseUrl" type="string" required=true %}
-URL de volta para o usuário retornar para resumo de compra após a confirmação do pagamento, se for necessário \(Opcional, a url deve esperar a concatenação do parâmetro de código do pedido\)
+{% api-method-parameter name="callBackResponseUrl" type="string" required=false %}
+URL de volta para o usuário retornar para resumo de compra após a confirmação do pagamento, se for necessário \(a url deve esperar a concatenação do parâmetro de código do pedido\)
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="p" type="string" required=true %}
-ID gerado dentro do sistema \(Opcional, consulte o administrador\)
+{% api-method-parameter name="p" type="string" required=false %}
+ID gerado dentro do sistema \(consulte o administrador\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="url" type="string" required=true %}

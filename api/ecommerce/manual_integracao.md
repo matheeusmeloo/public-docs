@@ -26,16 +26,16 @@ Dados do usuário para o preenchimento automático do formulário, codificado pa
 SKU do produto dessa venda, codificado para formato JSON e depois codificado para formato BASE64.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="callBackUrl" type="string" required=true %}
-URL de volta para o usuário retornar, se for necessário \(Opcional\)
+{% api-method-parameter name="callBackUrl" type="string" required=false %}
+URL de volta para o usuário retornar, se for necessário
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="lock" type="string" required=true %}
 Se definido, o cliente não poderá alterar quantidade de produtos, adicionar cupom de desconto.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="p" type="string" required=true %}
-ID gerado dentro do sistema \(Opcional, consulte o administrador\)
+{% api-method-parameter name="p" type="string" required=false %}
+ID gerado dentro do sistema \(Consulte o administrador\)
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
