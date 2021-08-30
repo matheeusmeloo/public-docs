@@ -120,6 +120,6 @@ curl --location --request POST 'https://tools.gestao.plus/goto-checkout.php' \
 
 
 {% hint style="info" %}
-Para consultar as informações utilize o código retornado na url indicada em "callBackResponseUrl", [utilize o endpoint de detalhes do pedido/pagamento](/api/public/order_details_public) para obter os detalhes.
+Para consultar as informações utilize o código retornado na url indicada em "callBackResponseUrl", [utilize o endpoint de detalhes do pedido/pagamento](https://docs.gestao.plus/api/public/order_details_public) para obter os detalhes.
 {% endhint %}
 

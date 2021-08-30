@@ -74,7 +74,7 @@
     * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md)
     
 * [Portal](portal/README.md)
-  * [🤝 Modo Parceiro](portal/parceiro.md)
+  * [🤝 Modo Parceiro](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
 * [API](api/README.md)
   * [Testando Pagamentos](api/payment_tests.md)

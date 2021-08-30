@@ -1,4 +1,4 @@
-# 🤝 Modo Parceiro
+# 🤝 Modo Indicador
 
 Neste modo você conseguirá:
 
@@ -9,7 +9,7 @@ Neste modo você conseguirá:
 
 ## Dashboard do Indicador
 
-Aqui serão mostrados gráficos detalhados sobre as indicações feitas por você ou pelo seu parceiro anteriormente.
+Aqui serão mostrados gráficos detalhados sobre as indicações feitas por você ou pelo seu parceiro indicador anteriormente.
 
 ![](../.gitbook/assets/3_indicador.png)
 
