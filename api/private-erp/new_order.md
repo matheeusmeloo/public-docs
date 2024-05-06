@@ -44,42 +44,6 @@ Array de itens
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
 
-#### Detalhando "user":
-
-```json
-{
-    "user": { // Dados do cliente
-        "name": "required", // Nome
-        "nameLaw": "", // Razão Social
-        "email": "required", // E-mail
-        "document": "required", // Documento
-        "cellphone": "", // Celular
-        "phone": "", // Telefone
-        "stateRegistration": "", // Inscrição estadual
-        "zipCode": "", // CEP
-        "address": "", // Endereço
-        "number": "", // Número
-        "neighborhood": "", // Bairro
-        "addressDetail": "", // Complemento
-        "city": "", // Cidade
-        "state": "" // Estado
-    }
-```
-
-#### Detalhando "orderItems":
-
-```json
-{
-    "orderItems": [
-        {
-            "product": "required", // SKU do produto
-            "quantity": "required", // Quantidade
-            "price": "", // Valor desse item
-            "discount": "" // Desconto nesse item (R$)
-        }
-    ]
-```
-
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
@@ -122,6 +86,43 @@ Token do ERP inválido.
 
 ### Exemplo de corpo da requisição:
 
+#### Detalhando "user":
+
+```json
+{
+    "user": { // Dados do cliente
+        "name": "required", // Nome
+        "nameLaw": "", // Razão Social
+        "email": "required", // E-mail
+        "document": "required", // Documento
+        "cellphone": "", // Celular
+        "phone": "", // Telefone
+        "stateRegistration": "", // Inscrição estadual
+        "zipCode": "", // CEP
+        "address": "", // Endereço
+        "number": "", // Número
+        "neighborhood": "", // Bairro
+        "addressDetail": "", // Complemento
+        "city": "", // Cidade
+        "state": "" // Estado
+    }
+```
+
+#### Detalhando "orderItems":
+
+```json
+{
+    "orderItems": [
+        {
+            "product": "required", // SKU do produto
+            "quantity": "required", // Quantidade
+            "price": "", // Valor desse item
+            "discount": "" // Desconto nesse item (R$)
+        }
+    ]
+```
+
+### Exemplo completo do corpo da requisição
 ```json
 {
     "code": "",
