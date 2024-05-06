@@ -35,7 +35,15 @@ Observação
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="user" type="object" required=true %}
-Objeto com os dados do usuário
+{% api-method-parameter name="name" type="string" required=true %}
+Nome
+{% endapi-method-parameter %}
+{% api-method-parameter name="nameLaw" type="string" required=true %}
+Razão Social
+{% endapi-method-parameter %}
+{% api-method-parameter name="email" type="string" required=true %}
+E-mail
+{% endapi-method-parameter %}
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="email" type="array" required=true %}
