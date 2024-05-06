@@ -85,20 +85,20 @@ Token de acesso inválido.
 
 ### Exemplo de corpo da requisição:
 
-```text
+```json
 {
     "negotiationType": "12",
     "type": "R",
     "userData": {
-        "document": "90166704083",
-        "name": "Paulo Filipe Macedo dos Santos",
-        "email": "paulo.filipe@live.com",
-        "cellphone": "(62) 99183-8359",
-        "zipCode": "74230-130",
+        "document": "53134384680",
+        "name": "João Diniz",
+        "email": "example@example.com",
+        "cellphone": "(62) 99999-9999",
+        "zipCode": "74000-000",
         "address": "Avenida T 14",
         "number": "1529",
         "neighborhood": "Setor Bueno",
-        "addressDetail": "Apt 102a",
+        "addressDetail": "",
         "city": "Goiânia",
         "state": "GO" 
     },
@@ -107,7 +107,7 @@ Token de acesso inválido.
         "expirationMonth":"05",
         "expirationYear":"2023",
         "securityCode":"123",
-        "cardNumber":"4539003370725497"
+        "cardNumber":"4539003378545497"
     },
     "items": [
         {

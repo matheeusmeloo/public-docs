@@ -35,7 +35,7 @@ URL de origem
 Pedido cancelado com sucesso.
 {% endapi-method-response-example-description %}
 
-```text
+```json
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Unknown",
     "status": 200,
@@ -49,7 +49,7 @@ Pedido cancelado com sucesso.
 Token de acesso ao pedido inválido.
 {% endapi-method-response-example-description %}
 
-```text
+```json
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -64,7 +64,7 @@ Token de acesso ao pedido inválido.
 Token do ERP inválido.
 {% endapi-method-response-example-description %}
 
-```text
+```json
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",

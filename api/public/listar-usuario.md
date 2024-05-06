@@ -47,7 +47,7 @@ Sucesso ao buscar por usuário
     "allowGuest": true,
     "data": {
         "email": "paulo.******@live.com",
-        "cellphone": "6299183****",
+        "cellphone": "6299043****",
         "guestUserToken": "TOKEN QUE SERÁ USADO PARA REALIZAR OS PEDIDOS" // IMPORTANTE
     },
     "_links": {

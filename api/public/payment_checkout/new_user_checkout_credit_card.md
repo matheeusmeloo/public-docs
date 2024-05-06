@@ -73,8 +73,8 @@ Token de acesso inválido
     "type": "V",
     "userData": {
         "document": "7187382837",
-        "name": "Paulo dos Santos",
-        "email": "paulo12783@gmail.com",
+        "name": "João Diniz",
+        "email": "example@exemple.com",
         "cellphone": "(62) 123123-123",
         "zipCode": "123123-23",
         "address": "Avenida T 14",
@@ -89,7 +89,7 @@ Token de acesso inválido
         "expirationMonth":"05",
         "expirationYear":"2021",
         "securityCode":"123",
-        "cardNumber":"4539003370725497"
+        "cardNumber":"4539003871725497"
     },
     "items": [
         {

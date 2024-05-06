@@ -50,7 +50,7 @@ Informações do pedido listadas com sucesso.
             "document": "123421341234",
             "name": "Solucoes Inteligentes Servicos EIRELI",
             "stateRegistration": null,
-            "email": "contato@sublimecd.com.br",
+            "email": "example@exemple.com",
             "phone": null,
             "cellphone": "123423434",
             "state": "PB",

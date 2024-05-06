@@ -99,8 +99,8 @@ Requisição inválida
    ],
    "userData":{
       "document":"231.231.231-23",
-      "name":"Kallebe Gomes",
-      "email":"kallebe187392@gmail.com",
+      "name":"João Diniz",
+      "email":"example@example.com",
       "cellphone":"(62) 00000-0000",
       "zipCode":"74000-000",
       "address":"My new address",

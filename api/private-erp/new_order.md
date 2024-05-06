@@ -35,22 +35,50 @@ Observação
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="user" type="object" required=true %}
-{% api-method-parameter name="name" type="string" required=true %}
-Nome
-{% endapi-method-parameter %}
-{% api-method-parameter name="nameLaw" type="string" required=true %}
-Razão Social
-{% endapi-method-parameter %}
-{% api-method-parameter name="email" type="string" required=true %}
-E-mail
-{% endapi-method-parameter %}
+Objeto com os dados do cliente
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="email" type="array" required=true %}
-Objeto com os dados dos itens
+{% api-method-parameter name="orderItems" type="array" required=true %}
+Array de itens
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
+
+#### Detalhando "user":
+
+```json
+{
+    "user": { // Dados do cliente
+        "name": "required", // Nome
+        "nameLaw": "", // Razão Social
+        "email": "required", // E-mail
+        "document": "required", // Documento
+        "cellphone": "", // Celular
+        "phone": "", // Telefone
+        "stateRegistration": "", // Inscrição estadual
+        "zipCode": "", // CEP
+        "address": "", // Endereço
+        "number": "", // Número
+        "neighborhood": "", // Bairro
+        "addressDetail": "", // Complemento
+        "city": "", // Cidade
+        "state": "" // Estado
+    }
+```
+
+#### Detalhando "orderItems":
+
+```json
+{
+    "orderItems": [
+        {
+            "product": "required", // SKU do produto
+            "quantity": "required", // Quantidade
+            "price": "", // Valor desse item
+            "discount": "" // Desconto nesse item (R$)
+        }
+    ]
+```
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
@@ -58,7 +86,7 @@ Objeto com os dados dos itens
 Criação do pedido com sucesso.
 {% endapi-method-response-example-description %}
 
-```text
+```json
 {
     "code": "SUCCESS_ORDER_CREATED",
     "data": {
@@ -79,7 +107,7 @@ Criação do pedido com sucesso.
 Token do ERP inválido.
 {% endapi-method-response-example-description %}
 
-```text
+```json
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -94,7 +122,7 @@ Token do ERP inválido.
 
 ### Exemplo de corpo da requisição:
 
-```text
+```json
 {
     "code": "",
     "date": "",
