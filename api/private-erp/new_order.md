@@ -2,7 +2,7 @@
 
 {% api-method method="post" host="https://api.gestao.plus" path="/order-external" %}
 {% api-method-summary %}
-Criar contato do parceiro
+Criar um novo pedido
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -12,12 +12,12 @@ Nesta rota você pode adicionar um contato ao usuário.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter name="Origin" type="string" required=true %}
-Url origem da requisição.
+{% api-method-parameter name="x-api-key" type="string" required=true %}
+Token de acesso ERP
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Authorization" type="string" required=true %}
-Access Token utilizado no formato "Bearer \(token\)".
+{% api-method-parameter name="Origin" type="string" required=true %}
+URL de origem
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 
