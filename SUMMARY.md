@@ -119,4 +119,8 @@
     * [Checkout de Pagamentos](api/private/payment_checkout/README.md)
       * [Checkout Usuário \(Cartão de Crédito\)](api/private/payment_checkout/user_checkout_card.md)
       * [Checkout Usuário \(Boleto\)](api/private/payment_checkout/user_checkout_bill.md)
+  * [API Autenticado como ERP](api/private-erp/README.md)
+    * [Listar Dados de Pedido](api/private-erp/list_order_info.md)
+    * [Criar Pedido](api/private-erp/new_order.md)
+    * [Cancelar Pedido](api/private-erp/cancel_order.md)
 
