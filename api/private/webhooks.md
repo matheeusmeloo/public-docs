@@ -14,7 +14,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 
 ## Eventos
 ### Compra realizada
-É dispardo quando uma compra é realizada
+É disparado quando uma compra é realizada
 
 **Payload**
 
