@@ -123,5 +123,5 @@
     * [Listar Dados de Pedido](api/private-erp/list_order_info.md)
     * [Criar Pedido](api/private-erp/new_order.md)
     * [Cancelar Pedido](api/private-erp/cancel_order.md)
-    * [Webhooks](api/private/webhooks.md)
+    * [Webhooks](api/private-erp/webhooks.md)
 
