@@ -15,6 +15,10 @@ Com esta rota você pode cancelar um pedido.
 {% api-method-parameter name="orderId" type="string" required=true %}
 ID do pedido
 {% endapi-method-parameter %}
+
+{% api-method-parameter name="q" type="string" required=false %}
+Motivo do cancelamento (Opcional)
+{% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
