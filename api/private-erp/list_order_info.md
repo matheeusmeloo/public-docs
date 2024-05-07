@@ -1,6 +1,6 @@
 # Listar Dados de Pedido
 
-{% api-method method="get" host="https://api.gestao.plus" path="/order-external?t=:public_token" %}
+{% api-method method="get" host="https://api.gestao.plus" path="/order-external/:orderId" %}
 {% api-method-summary %}
 Listar Dados de Pedido
 {% endapi-method-summary %}
@@ -12,8 +12,8 @@ Com esta rota você pode trazer os dados de um pedido.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="public_token" type="string" required=true %}
-Token público do pedido
+{% api-method-parameter name="orderId" type="string" required=true %}
+ID do pedido
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
@@ -188,6 +188,21 @@ Token do ERP inválido.
     "title": "Forbidden",
     "status": 403,
     "detail": "Forbidden, invalid key (x-api-key)"
+}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Pedido não encontrado.
+{% endapi-method-response-example-description %}
+
+```json
+{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+    "title": "Not Found",
+    "status": 404,
+    "detail": "Order not found"
 }
 ```
 {% endapi-method-response-example %}

@@ -22,6 +22,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "ORDER_CREATED",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -51,6 +52,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "ORDER_CANCEL",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -80,6 +82,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "TAX_INVOICE_CHANGE_STATUS",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -109,6 +112,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "FINANCIAL_PAYMENT_DISCHARGE",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -138,6 +142,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "FINANCIAL_PAYMENT_STATUS",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -160,6 +165,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "FINANCIAL_PAYMENT_DISCHARGE",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {
@@ -190,6 +196,7 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
 {
     "event_id": "ORDER_DELIVERY_CHANGE_STATUS",
     "data": {
+	 "id": "100",
    	 "code": "0000593098",
    	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
    	 "date": {

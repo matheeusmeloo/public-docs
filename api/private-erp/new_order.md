@@ -30,8 +30,20 @@ Código de identificação da venda
 Data da venda: Y-m-d H:i:s 
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="note" type="string" required=false %}
-Observação
+{% api-method-parameter name="utmCampaign" type="string" required=false %}
+UTM Campaign
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="utmId" type="string" required=false %}
+UTM ID
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="utmMedium" type="string" required=false %}
+UTM Medium
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="utmSource" type="string" required=false %}
+UTM Source
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="user" type="object" required=true %}
@@ -55,7 +67,8 @@ Criação do pedido com sucesso.
     "code": "SUCCESS_ORDER_CREATED",
     "data": {
         "publicToken": "OMzMyMQ_MTY4OTYyMjM4MDUEaa1xNjE_7C44FWNkaVR-GJB871Mb2g",
-        "orderCode": "CÓDIGO_DA_VENDA_GERADA"
+        "orderCode": "CÓDIGO_DA_VENDA",
+        "orderId": "ID_DA_VENDA"
     },
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Unknown",
