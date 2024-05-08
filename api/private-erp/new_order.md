@@ -73,7 +73,7 @@ Criação do pedido com sucesso.
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Unknown",
     "status": 201,
-    "detail": "ok"
+    "detail": "Order successfully created"
 }
 
 ```

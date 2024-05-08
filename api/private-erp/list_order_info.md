@@ -157,7 +157,7 @@ Informações do pedido listadas com sucesso.
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Unknown",
     "status": 200,
-    "detail": "ok"
+    "detail": "Fetch successfully"
 }
 ```
 {% endapi-method-response-example %}

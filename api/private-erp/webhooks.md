@@ -161,30 +161,6 @@ O sistema sempre enviará uma request POST com o corpo em JSON com o formato a s
    	 }
     }
 }
-
-{
-    "event_id": "FINANCIAL_PAYMENT_DISCHARGE",
-    "data": {
-	 "id": "100",
-   	 "code": "0000593098",
-   	 "utmId": "01407b89-b25d-4cac-a576-014158bb17a5",
-   	 "date": {
-   		 "date": "2021-03-02 21:02:53.000000",
-   		 "timezone_type": 3,
-   		 "timezone": "UTC"
-   	 },
-   	 "status": 1,
-   	 "user": {
-   		 "id": 2,
-   		 "document": "123421341234",
-   		 "name": "teste",
-   		 "email": "teste@teste.com",
-   		 "phone": null,
-   		 "cellphone": "123423434"
-   	 }
-    }
-}
-
 ```
 
 ### Alteração de status de entrega
