@@ -72,7 +72,10 @@
     * [Sistema Pré/Pós pago](erp/guias/pre-pago.md)
     * [Geração de Relatórios](erp/guias/geracao_de_relatorios.md)
     * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md)
-    
+
+*[🖥️ ERP V2](/erp-v2/README.md)
+  *[Criar e/ou recuperar acesso](/erp-v2/criar_recuperar_acesso/email_cadastro_usuario.md)
+
 * [Portais](portal/README.md)
   * [🤝 Modo Parceiro](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
