@@ -75,6 +75,8 @@
 
 *[🖥️ ERP V2](/erp-v2/README.md)
   *[Criar e/ou recuperar acesso](/erp-v2/criar_recuperar_acesso/email_cadastro_usuario.md)
+    * [E-mail de recebimento de cadastro de usuário]()
+    * [Recuperar acesso e ativar conta]()
 
 * [Portais](portal/README.md)
   * [🤝 Modo Parceiro](portal/indicador.md)
